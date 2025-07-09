@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Palina Krasiuk
 
-<!--
-**CloudDataPalina/CloudDataPalina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Cloud Data Engineer  
+Learning: Python, SQL, Data Pipelines, GCP & AWS  
+Currently studying on Coursera (IBM, Google, etc.)  
+Ex-Senior Accountant with 15+ years of experience  
+Based in Poland | Open to collaboration
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills in Progress
+- Python (Pandas, NumPy, OOP)
+- SQL (MySQL, Oracle)
+- Data Engineering Fundamentals
+- Linux, Git, Shell scripting
+- Cloud Platforms (GCP, AWS)
+
+---
+
+## Projects (coming soon)
+- Budget Analysis with Python  
+- Web Scraping for Financial Data  
+- ETL Pipeline Demo (Airflow, Kafka)
+
+---
+
+## Connect with me  
+[LinkedIn Profile](https://www.linkedin.com/in/palina-krasiuk-954404372/)
+
+
