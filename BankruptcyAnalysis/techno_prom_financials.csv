@@ -1,6 +1,15 @@
-Year,Revenue,COGS,Gross_Profit,Administrative_Expenses,Marketing_PR,Depreciation,Loan_Interest,Other_Expenses,Net_Profit,Year_End_Debt,Cash_Flow,Inventory,Payables,Employees
-Year 1,520,290,230,60,20,25,15,10,100,80,90,40,30,120
-Year 2,470,300,170,70,30,30,20,15,5,150,-10,60,45,130
-Year 3,410,310,100,85,45,35,30,20,-115,250,-100,80,65,140
-Year 4,360,320,40,95,50,40,40,30,-215,380,-200,95,90,135
-Year 5,320,330,-10,100,55,40,50,35,-290,520,-250,110,120,130
+Indicator,Year 1,Year 2,Year 3,Year 4,Year 5
+Revenue,520,470,410,360,320
+COGS,290,300,310,320,330
+Gross_Profit,230,170,100,40,-10
+Administrative_Expenses,60,70,85,95,100
+Marketing_PR,20,30,45,50,55
+Depreciation,25,30,35,40,40
+Loan_Interest,15,20,30,40,50
+Other_Expenses,10,15,20,30,35
+Net_Profit,100,5,-115,-215,-290
+Year_End_Debt,80,150,250,380,520
+Cash_Flow,90,-10,-100,-200,-250
+Inventory,40,60,80,95,110
+Payables,30,45,65,90,120
+Headcount,120,130,140,135,130
