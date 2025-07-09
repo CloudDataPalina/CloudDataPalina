@@ -20,7 +20,11 @@
 ## 📁 Projects
 
 ### 💸 [Where Did the Money Go? — Bankruptcy Analysis](https://github.com/CloudDataPalina/CloudDataPalina/tree/main/BankruptcyAnalysis)
-Analyze the financial collapse of the fictional company *TechnoProm* over 5 years. Explored trends in revenue, debt, cash flow, inventory, and headcount using **Python**, **pandas**, **NumPy**, and **matplotlib**.
+
+Analyze the financial collapse of the fictional company *TechnoProm* over 5 years.  
+Explored trends in revenue, debt, cash flow, inventory, and headcount  
+using **Python**, **pandas**, **NumPy**, and **matplotlib** to identify key drivers of financial distress.
+
 
 ---
 
