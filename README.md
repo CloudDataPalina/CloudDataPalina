@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Palina Krasiuk
 
-🎯 **Aspiring Cloud Data Engineer**  
-📚 Learning: Python, SQL, Data Pipelines, GCP & AWS  
-🎓 Currently studying on Coursera (IBM, Google, etc.)  
-💼 Ex-Senior Accountant with 15+ years of experience  
-📍 Based in Poland | 🤝 Open to collaboration  
+- **Aspiring Cloud Data Engineer**  
+- Learning: Python, SQL, Data Pipelines, GCP & AWS  
+- Currently studying on Coursera (IBM, Google, etc.)  
+- Ex-Senior Accountant with 15+ years of experience  
+- Based in Poland | 🤝 Open to collaboration  
 
 ---
 
@@ -18,9 +18,9 @@
 ---
 
 ## 🛠️ Projects (coming soon)
-- 📊 Budget Analysis with Python
-- 🌐 Web Scraping for Financial Data
-- 🔁 ETL Pipeline Demo (Airflow, Kafka)
+-  Budget Analysis with Python
+-  Web Scraping for Financial Data
+-  ETL Pipeline Demo (Airflow, Kafka)
 
 ---
 
