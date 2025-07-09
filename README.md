@@ -4,7 +4,7 @@ Aspiring Cloud Data Engineer
 Learning: Python, SQL, Data Pipelines, GCP & AWS  
 Currently studying on Coursera (IBM, Google, etc.)  
 Ex-Senior Accountant with 15+ years of experience  
-Based in Poland 
+Based in Poland |
 Open to collaboration
 
 ---
