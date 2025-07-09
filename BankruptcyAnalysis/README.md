@@ -1,59 +1,59 @@
-# 💸 Where Did the Money Go? — Bankruptcy Analysis
+# Where Did the Money Go? — Bankruptcy Analysis
 
-This project analyzes the financial downfall of a fictional company based on its monthly expenses and revenue. The goal is to uncover which cost categories contributed most to the bankruptcy.
+This project examines the financial collapse of the fictional company **TechnoProm** over a period of 5 years. Using Python, pandas, NumPy, and matplotlib, we identify key factors that led to growing losses and financial distress.
 
 ---
+
 
 ## 📁 Project Structure
 
 ```
 BankruptcyAnalysis/
-├── techno_prom_financials.csv   ← Source dataset
-├── analysis.ipynb               ← Jupyter Notebook with full analysis (to be added)
-└── README.md                    ← This file
+├── techno_prom_financials.csv ← Source dataset (5 years of annual data)
+├── analysis.ipynb ← Jupyter notebook with full year-by-year analysis
+└── README.md ← This file
 ```
+
 
 
 ---
 
-## 🛠️ Tools Used
-
-- Python
-- pandas
-- NumPy
-- matplotlib
+## ⚙️ Tools Used
+- Python  
+- pandas  
+- NumPy  
+- matplotlib  
 
 ---
 
 ## 📊 Dataset Overview
 
-This project uses financial data of a fictional company "TechnoProm" across 5 years. The dataset is saved in 📄 [`techno_prom_financials.csv`](./techno_prom_financials.csv) and contains:
+The dataset (`techno_prom_financials.csv`) includes annual data for Years 1–5 with the following columns:
+- **Revenue** and **Cost of Goods Sold (COGS)**
+- **Gross Profit** and **Net Profit**
+- **Administrative Expenses**, **Marketing & PR**, **Depreciation**, **Loan Interest**, **Other Expenses**
+- **Cash Flow** and **Year‑End Debt**
+- **Inventory**, **Payables**, **Employee Headcount**
 
-- Revenue and cost of goods sold (COGS)
-- Gross and net profit
-- Administrative, marketing, and other expenses
-- Cash flow and year-end debt
-- Inventory, payables, and employee headcount
-
-The goal is to analyze key drivers of financial downfall using Python, pandas, NumPy, and matplotlib.
-
----
-
-## 📈 Project Goals
-
-1. Load and clean the dataset
-2. Calculate and visualize monthly profits
-3. Analyze major expense categories
-4. Identify cost trends and months with critical overspending
-5. Present conclusions about the most probable causes of bankruptcy
+We aim to uncover the key financial drivers behind the decline, focusing on operational efficiency, debt buildup, and cash flow trends.
 
 ---
 
-## 📌 Next Steps
+## ✅ Project Goals
 
-- Add `analysis.ipynb` with full Python analysis notebook
-- Visualize trends using matplotlib
-- Share key takeaways in bullet points
+1. Load and clean the dataset  
+2. Compute and visualize **yearly profits**  
+3. Analyze major expense categories and their impact  
+4. Trace trends in debt, cash flow, and inventory over time  
+5. Derive conclusions about the primary causes of financial collapse  
+
+---
+
+## 🚀 Next Steps
+
+- Add `analysis.ipynb` with full Python analysis  
+- Build visualizations (bar charts, line plots) using matplotlib  
+- Summarize findings and conclusions in bullet points  
 
 ---
 
