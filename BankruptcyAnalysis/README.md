@@ -1,4 +1,4 @@
-# 💸 Where Did the Money Go? — A Python-Powered Bankruptcy Analysis
+# 💸 Where Did the Money Go? — Bankruptcy Analysis
 
 This project examines the financial collapse of the fictional company **TechnoProm** over a period of 5 years. Using Python, pandas, NumPy, and matplotlib, we identify key factors that led to growing losses and financial distress.
 
