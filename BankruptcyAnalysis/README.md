@@ -26,16 +26,19 @@ BankruptcyAnalysis/
 
 ---
 
-## 📊 Dataset Overview
+📊 **Dataset Overview**
 
-The dataset (`techno_prom_financials.csv`) includes annual data for Years 1–5 with the following columns:
-- **Revenue** and **Cost of Goods Sold (COGS)**
-- **Gross Profit** and **Net Profit**
-- **Administrative Expenses**, **Marketing & PR**, **Depreciation**, **Loan Interest**, **Other Expenses**
-- **Cash Flow** and **Year‑End Debt**
-- **Inventory**, **Payables**, **Employee Headcount**
+This project uses financial data of a fictional company **"TechnoProm"** over a period of 5 years.  
+The dataset is saved in [`techno_prom_financials.csv`](techno_prom_financials.csv) and contains:
 
-We aim to uncover the key financial drivers behind the decline, focusing on operational efficiency, debt buildup, and cash flow trends.
+- Revenue and cost of goods sold (COGS)
+- Gross and net profit
+- Administrative, marketing, and other expenses
+- Depreciation and loan interest
+- Year-end debt and cash flow
+- Inventory, payables, and employee headcount
+
+The goal is to analyze key drivers of financial downfall using **Python**, **pandas**, **NumPy**, and **matplotlib**.
 
 ---
 
