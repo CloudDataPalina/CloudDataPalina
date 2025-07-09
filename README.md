@@ -16,12 +16,12 @@
 - Data Engineering Fundamentals
 
 ---
-## Projects
+## 📁 Projects
 
-📉 [Where Did the Money Go? — Bankruptcy Analysis](BankruptcyAnalysis/)
+### 📊 [Where Did the Money Go? — Bankruptcy Analysis](BankruptcyAnalysis/)
 
-Analyze how poor financial management and monthly overspending led to bankruptcy.  
-Explored trends and key cost drivers using **Python**, **pandas**, **NumPy**, and **matplotlib**.
+💸 Analyzed how poor financial management and monthly overspending led to bankruptcy.  
+🔍 Explored trends and key cost drivers using **Python**, **pandas**, **NumPy**, and **matplotlib**.
 
 ---
 
