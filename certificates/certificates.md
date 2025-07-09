@@ -5,7 +5,13 @@
 - [Python for Data Science, AI & Development ](https://www.coursera.org/account/accomplishments/verify/RE1QJ5J27Q9M) - 06.07.2025
 - [Introduction to Data Engineering ](https://www.coursera.org/account/accomplishments/verify/Q1QM933TRCOI) - 16.05.2025 
 - [Tools for Data Science? ](https://www.coursera.org/account/accomplishments/verify/7MXBOZMD8SHE) - 08.02.2025
-- [What is Data Science? ](https://www.coursera.org/account/accomplishments/verify/6XFV92CM88JB) - 29.01.2025 
+- [What is Data Science? ](https://www.coursera.org/account/accomplishments/verify/6XFV92CM88JB) - 29.01.2025
+  
+
+## Udemy
+
+- [Oracle SQL Course ](https://www.udemy.com/certificate/UC-0980df6f-7645-4129-a572-7a045118e41e/) - 14.04.2025
+  
 
 ## Stepik
 
@@ -17,6 +23,3 @@
 - [Python Beginner Course](https://stepik.org/cert/2056820?lang=en) - 08.05.2023
 
   
-## Udemy
-
-- [Oracle SQL Course ](https://www.udemy.com/certificate/UC-0980df6f-7645-4129-a572-7a045118e41e/) - 14.04.2025
