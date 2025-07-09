@@ -14,7 +14,7 @@
 - [Python Professional Course](https://stepik.org/cert/2432220?lang=en) - 17.04.2024
 - [Python Course](https://stepik.org/cert/2486167?lang=en) - 31.05.2024
 - [Object-Oriented Programming](https://stepik.org/cert/2530129?lang=en) - 28.07.2024 
-- [MySQL + Practice](https://stepik.org/cert/2888336?lang=en) - 12.06.2025 
+- [Databases and SQL Course (MySQL based)](https://stepik.org/cert/2888336?lang=en) - 12.06.2025 
 
 
 ## Udemy
