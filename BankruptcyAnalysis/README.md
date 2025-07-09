@@ -27,13 +27,15 @@ BankruptcyAnalysis/
 
 ## 📊 Dataset Overview
 
-The dataset contains 12 rows (one per month) with the following columns:
+This project uses financial data of a fictional company "TechnoProm" across 5 years. The dataset is saved in [`techno_prom_financials.csv`](./TechnoPromAnalysis/techno_prom_financials.csv) and contains:
 
-- `Month`
-- `Revenue`
-- `Salary`, `Rent`, `Marketing`, `Travel`, `IT`, `Logistics`, `Representation`
-- `Total_Expenses`
-- `Profit`
+- Revenue and cost of goods sold (COGS)
+- Gross and net profit
+- Administrative, marketing, and other expenses
+- Cash flow and year-end debt
+- Inventory, payables, and employee headcount
+
+The goal is to analyze key drivers of financial downfall using Python, pandas, NumPy, and matplotlib.
 
 ---
 
