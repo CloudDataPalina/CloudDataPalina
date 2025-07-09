@@ -17,10 +17,11 @@
 
 ---
 
-## 🛠️ Projects (coming soon)
--  Budget Analysis with Python
--  Web Scraping for Financial Data
--  ETL Pipeline Demo (Airflow, Kafka)
+## 📊 Projects
+
+- **[Where Did the Money Go? — Bankruptcy Analysis](BankruptcyAnalysis/)**  
+  Tools: Python, pandas, NumPy, matplotlib  
+  Description: A case study exploring financial missteps through company expense analysis.
 
 ---
 
