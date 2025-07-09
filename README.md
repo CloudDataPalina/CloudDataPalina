@@ -16,6 +16,7 @@
 - Data Engineering Fundamentals
 
 ---
+## Projects
 
 📉 [Where Did the Money Go? — Bankruptcy Analysis](BankruptcyAnalysis/)
 
