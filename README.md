@@ -27,4 +27,9 @@ Based in Poland | Open to collaboration
 ## Connect with me  
 [LinkedIn Profile](https://www.linkedin.com/in/palina-krasiuk-954404372/)
 
+---
+
+## Certificates
+
+You can view all my certificates [here](certificates/certificates.md).
 
