@@ -16,12 +16,11 @@
 - Data Engineering Fundamentals
 
 ---
+
 ## 📁 Projects
 
-### 📊 [Where Did the Money Go? — Bankruptcy Analysis](BankruptcyAnalysis/)
-
-💸 Analyzed how poor financial management and monthly overspending led to bankruptcy.  
-🔍 Explored trends and key cost drivers using **Python**, **pandas**, **NumPy**, and **matplotlib**.
+### 📊 [Where Did the Money Go? — Bankruptcy Analysis](https://github.com/CloudDataPalina/CloudDataPalina/tree/main/BankruptcyAnalysis)
+Analyze the financial collapse of the fictional company *TechnoProm* over 5 years. Explored trends in revenue, debt, cash flow, inventory, and headcount using **Python**, **pandas**, **NumPy**, and **matplotlib**.
 
 ---
 
