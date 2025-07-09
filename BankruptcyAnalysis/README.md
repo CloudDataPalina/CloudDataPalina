@@ -8,7 +8,7 @@ This project analyzes the financial downfall of a fictional company based on its
 
 ```
 BankruptcyAnalysis/
-├── techno_prom_financials.csv    ← Source dataset
+├── techno_prom_financials.csv   ← Source dataset
 ├── analysis.ipynb               ← Jupyter Notebook with full analysis (to be added)
 └── README.md                    ← This file
 ```
