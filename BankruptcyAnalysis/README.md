@@ -9,9 +9,9 @@ This project examines the financial collapse of the fictional company **TechnoPr
 
 ```
 BankruptcyAnalysis/
-├── techno_prom_financials.csv ← Source dataset (5 years of annual data)
-├── analysis.ipynb ← Jupyter notebook with full year-by-year analysis
-└── README.md ← This file
+├── techno_prom_financials.csv    ← Source dataset (5 years of annual data)
+├── analysis.ipynb                ← Jupyter notebook with full year-by-year analysis
+└── README.md                     ← This file
 ```
 
 
