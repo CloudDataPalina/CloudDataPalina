@@ -6,10 +6,12 @@ This project analyzes the financial downfall of a fictional company based on its
 
 ## 📁 Project Structure
 
+```
 BankruptcyAnalysis/
-├── bankruptcy_case_study.csv ← Source dataset
-├── analysis.ipynb ← Jupyter Notebook with full analysis (to be added)
-└── README.md ← This file
+├── bankruptcy_case_study.csv    ← Source dataset
+├── analysis.ipynb               ← Jupyter Notebook with full analysis (to be added)
+└── README.md                    ← This file
+```
 
 
 ---
@@ -53,5 +55,5 @@ The dataset contains 12 rows (one per month) with the following columns:
 
 ---
 
-> **Author:** Polina Krasiuk — *Aspiring Cloud & Data Engineer*  
+> **Author:** Palina Krasiuk — *Aspiring Cloud Data Engineer*  
 > [LinkedIn](https://www.linkedin.com/in/palina-krasiuk-954404372/) • [Main Portfolio](../README.md)
