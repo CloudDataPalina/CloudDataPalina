@@ -2,7 +2,7 @@
 
 ## Coursera
 
-- [Introduction to Data Engineering ](https://www.coursera.org/account/accomplishments/verify/Q1QM933TRCOI) — 16.05.2025
+- [Introduction to Data Engineering ](https://www.coursera.org/account/accomplishments/verify/Q1QM933TRCOI) - 16.05.2025
 - [Python for Data Science, AI & Development ](https://www.coursera.org/account/accomplishments/verify/RE1QJ5J27Q9M) - 06.07.2025  
 - [What is Data Science? ](https://www.coursera.org/account/accomplishments/verify/6XFV92CM88JB) - 29.01.2025 
 - [Tools for Data Science? ](https://www.coursera.org/account/accomplishments/verify/7MXBOZMD8SHE) - 08.02.2025
