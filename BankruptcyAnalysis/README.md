@@ -27,7 +27,7 @@ BankruptcyAnalysis/
 
 ## 📊 Dataset Overview
 
-This project uses financial data of a fictional company "TechnoProm" across 5 years. The dataset is saved in [`techno_prom_financials.csv`](BankruptcyAnalysis/techno_prom_financials.csv) and contains:
+This project uses financial data of a fictional company "TechnoProm" across 5 years. The dataset is saved in 📄 [`techno_prom_financials.csv`](./techno_prom_financials.csv) and contains:
 
 - Revenue and cost of goods sold (COGS)
 - Gross and net profit
