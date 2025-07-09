@@ -17,11 +17,7 @@
 
 ---
 
-## 📂 My Projects
-
-### 📉 [Where Did the Money Go? — Bankruptcy Analysis](BankruptcyAnalysis/README.md)
-> Analyze the financial downfall of a fictional company using Python, pandas, NumPy, and matplotlib.  
-> [🔗 View full project folder →](BankruptcyAnalysis/)
+📉 [Where Did the Money Go? — Bankruptcy Analysis](BankruptcyAnalysis/)
 
 ---
 
