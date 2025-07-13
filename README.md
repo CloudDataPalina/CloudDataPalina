@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Palina Krasiuk
 
+I enjoy working with data, transforming spreadsheets into insights, and solving real-world problems.
+
 - **Aspiring Cloud Data Engineer**  
 - Learning: Python, SQL, Data Pipelines, GCP & AWS  
 - Currently studying on Coursera (IBM, Google, etc.)  
@@ -11,20 +13,31 @@
 ## 🧠 Skills in Progress
 - Python (Pandas, NumPy, OOP)
 - SQL (MySQL, Oracle)
-- Linux, Git, Shell scripting
-- Cloud Platforms (GCP, AWS)
-- Data Engineering Fundamentals
+- Linux, Git, Shell scripting (in progress)
+- Cloud Platforms (GCP, AWS) (in progress)
+- ETL & Data Pipelines (in progress)
+- Data Science and Data Engineering Fundamentals
+- Data Visualization (Jupyter, matplotlib)
+- Git, GitHub, VS Code
 
 ---
 
-## 📁 Projects
 
-### 💸 [Where Did the Money Go? — Bankruptcy Analysis](https://github.com/CloudDataPalina/CloudDataPalina/tree/main/BankruptcyAnalysis)
+### 🚀 My Projects
 
-Analyze the financial collapse of the fictional company *TechnoProm* over 5 years.  
-Explored trends in revenue, debt, cash flow, inventory, and headcount  
-using **Python**, **pandas**, **NumPy**, and **matplotlib** to identify key drivers of financial distress.
+#### [📉 Technoprom Financial Crisis Analysis (EDA Project)](https://github.com/CloudDataPalina/Technoprom-Financial-Crisis-EDA)
+EDA of 5 years of financial data for a fictional company:
+- 📉 Key metrics: revenue, gross/net profit, debt, margins
+- 📊 Dynamic visualizations of financial deterioration
+- 📈 Ratio analysis: Gross, Operating, Net Profit Margins
+- 💡 Business diagnosis with clear English commentary and recommendations
 
+ Tools used: `pandas`, `numpy`, `matplotlib`, `Jupyter Notebook`
+
+---
+
+### 📚 Currently Learning
+I'm completing the [IBM Data Engineer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer) on Coursera and applying my skills through practical projects.
 
 ---
 
