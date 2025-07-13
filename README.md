@@ -27,10 +27,10 @@ I enjoy working with data, transforming spreadsheets into insights, and solving 
 
 #### [📉 Technoprom Financial Crisis Analysis (EDA Project)](https://github.com/CloudDataPalina/CloudDataPalina/tree/main/BankruptcyAnalysis)
 EDA of 5 years of financial data for a fictional company:
-- 📉 Key metrics: revenue, gross/net profit, debt, margins
-- 📊 Dynamic visualizations of financial deterioration
-- 📈 Ratio analysis: Gross, Operating, Net Profit Margins
-- 💡 Business diagnosis with clear English commentary and recommendations
+- Key metrics: revenue, gross/net profit, debt, margins
+- Dynamic visualizations of financial deterioration
+- Ratio analysis: Gross, Operating, Net Profit Margins
+- Business diagnosis with clear English commentary and recommendations
 
  Tools used: `pandas`, `numpy`, `matplotlib`, `Jupyter Notebook`
 
