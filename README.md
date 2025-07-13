@@ -6,7 +6,8 @@ I enjoy working with data, transforming spreadsheets into insights, and solving 
 - Learning: Python, SQL, Data Pipelines, GCP & AWS  
 - Currently studying on Coursera (IBM, Google, etc.)  
 - Ex-Senior Accountant with 15+ years of experience  
-- Based in Poland | 🤝 Open to collaboration  
+- Based in Poland
+- 🤝 Open to collaboration, job opportunities, and internships. 
 
 ---
 
