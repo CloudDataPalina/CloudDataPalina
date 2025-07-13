@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Palina Krasiuk
 
-I enjoy working with data, transforming spreadsheets into insights, and solving real-world problems.
+I enjoy working with data, transforming spreadsheets into insights, and solving real-world problems
 
 - **Aspiring Cloud Data Engineer**  
 - Learning: Python, SQL, Data Pipelines, GCP & AWS  
