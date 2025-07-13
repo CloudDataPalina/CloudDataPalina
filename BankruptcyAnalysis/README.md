@@ -84,5 +84,5 @@ Data source: [`techno_prom_financials.csv`](techno_prom_financials.csv)
 ## 👩‍💻 Author
 
 **Palina Krasiuk**  
-Aspiring Cloud & Data Engineer | ex-Senior Accountant  
+Aspiring Cloud Data Engineer | ex-Senior Accountant  
 [LinkedIn](https://www.linkedin.com/in/palina-krasiuk-954404372/) • [GitHub Portfolio](https://github.com/CloudDataPalina)
