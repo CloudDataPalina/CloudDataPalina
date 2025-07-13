@@ -51,13 +51,14 @@ Data source: [`techno_prom_financials.csv`](techno_prom_financials.csv)
 
 ## 📈 Visualizations
 
-- 📉 **Net Profit vs Year-End Debt** — анализ падения прибыли и роста долга
-- 📊 **5-Year Change in Financial Indicators** — процентные изменения ключевых метрик
-- 📈 **Trendlines of Gross, Operating, and Net Profit Margins** — динамика убыточности
-- 🥧 **Expense Structure in Year 5** — круговая диаграмма структуры расходов
-- 📉 **Revenue vs Operating Expenses** — момент, когда затраты превышают выручку
+- 📉 **Net Profit vs Year-End Debt** — analysis of declining profit and rising debt  
+- 📊 **5-Year Change in Financial Indicators** — percentage changes in key metrics  
+- 📈 **Trendlines of Gross, Operating, and Net Profit Margins** — visualization of margin deterioration over time  
+- 🥧 **Expense Structure in Year 5** — pie chart of cost distribution in the final year  
+- 📉 **Revenue vs Operating Expenses** — identifying the tipping point when expenses exceeded revenue  
 
-*(All visualizations available in `analysis.ipynb`)*
+*(All visualizations are available in `1 final project eng.ipynb`)*
+
 
 ---
 
