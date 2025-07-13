@@ -10,7 +10,7 @@ Using Python, pandas, NumPy, and matplotlib, we analyze profitability, expenses,
 ```
 BankruptcyAnalysis/
 ├── techno_prom_financials.csv    ← Source dataset (5 years of annual data)
-├── analysis.ipynb                ← Jupyter notebook with full EDA
+├── 1 final project eng.ipynb     ← Jupyter notebook with full EDA
 └── README.md                     ← This file
 
 
