@@ -57,7 +57,7 @@ Data source: [`techno_prom_financials.csv`](techno_prom_financials.csv)
 - 🥧 **Expense Structure in Year 5** — pie chart of cost distribution in the final year  
 - 📉 **Revenue vs Operating Expenses** — identifying the tipping point when expenses exceeded revenue  
 
-*(All visualizations are available in [`techno_prom_financials.csv`](techno_prom_financials.csv))*
+*(All visualizations are available in [1 final project eng.ipynb))*
 
 
 ---
