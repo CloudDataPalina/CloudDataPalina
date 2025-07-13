@@ -2,10 +2,10 @@
 
 I enjoy working with data, transforming spreadsheets into insights, and solving real-world problems
 
-- **Aspiring Cloud Data Engineer**  
+- **Aspiring Cloud Data Engineer**
+- Ex-Senior Accountant with 15+ years of experience  
 - Learning: Python, SQL, Data Pipelines, GCP & AWS  
 - Currently studying on Coursera (IBM, Google, etc.)  
-- Ex-Senior Accountant with 15+ years of experience  
 - Open to collaboration, job opportunities, and internships
 - Based in Poland
 
