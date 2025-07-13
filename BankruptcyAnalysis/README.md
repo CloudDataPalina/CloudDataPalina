@@ -1,64 +1,87 @@
-# 💸 Where Did the Money Go? — Bankruptcy Analysis
+# 📉 Technoprom Financial Crisis Analysis (EDA Project)
 
-This project examines the financial collapse of the fictional company **TechnoProm** over a period of 5 years. Using Python, pandas, NumPy, and matplotlib, we identify key factors that led to growing losses and financial distress.
+This project investigates the 5-year financial collapse of the fictional company **Technoprom Ltd.**  
+Using Python, pandas, NumPy, and matplotlib, we analyze profitability, expenses, and debt to uncover the root causes of the crisis.
 
 ---
-
 
 ## 📁 Project Structure
 
 ```
 BankruptcyAnalysis/
 ├── techno_prom_financials.csv    ← Source dataset (5 years of annual data)
-├── analysis.ipynb                ← Jupyter notebook with full year-by-year analysis
+├── analysis.ipynb                ← Jupyter notebook with full EDA
 └── README.md                     ← This file
+
+
 ```
 
+## ⚙️ Tools & Technologies
 
-
----
-
-## ⚙️ Tools Used
 - Python  
 - pandas  
 - NumPy  
 - matplotlib  
+- Jupyter Notebook  
 
 ---
 
-📊 **Dataset Overview**
+## 📊 Dataset Overview
 
-This project uses financial data of a fictional company **"TechnoProm"** over a period of 5 years.  
-The dataset is saved in [`techno_prom_financials.csv`](techno_prom_financials.csv) and contains:
+The dataset includes:
+- 📈 Revenue, Gross Profit, Net Profit
+- 💰 Cost of Goods Sold (COGS), Admin & Marketing Expenses
+- 📉 Year-End Debt, Loan Interest, Depreciation
+- 🧾 Cash Flow, Inventory, Payables
+- 👥 Employee Headcount
 
-- Revenue and cost of goods sold (COGS)
-- Gross and net profit
-- Administrative, marketing, and other expenses
-- Depreciation and loan interest
-- Year-end debt and cash flow
-- Inventory, payables, and employee headcount
-
-The goal is to analyze key drivers of financial downfall using **Python**, **pandas**, **NumPy**, and **matplotlib**.
+Data source: [`techno_prom_financials.csv`](techno_prom_financials.csv)
 
 ---
 
 ## ✅ Project Goals
 
-1. Load and clean the dataset  
-2. Compute and visualize **yearly profits**  
-3. Analyze major expense categories and their impact  
-4. Trace trends in debt, cash flow, and inventory over time  
-5. Derive conclusions about the primary causes of financial collapse  
+1. Load and explore the dataset  
+2. Compute and visualize profitability over time  
+3. Analyze cost structure and debt accumulation  
+4. Derive insights and root causes of collapse  
+5. Provide actionable recommendations
 
 ---
 
-## 🚀 Next Steps
+## 📈 Visualizations
 
-- Add `analysis.ipynb` with full Python analysis  
-- Build visualizations (bar charts, line plots) using matplotlib  
-- Summarize findings and conclusions in bullet points  
+- 📉 **Net Profit vs Year-End Debt** (Line Chart)
+- 📊 **5-Year Change in Financial Indicators** (Bar Chart)
+- 📊 **Trendlines of Gross, Operating, and Net Profit Margins**
+
+*(All visualizations available in `analysis.ipynb`)*
 
 ---
 
-> **Author:** Palina Krasiuk — *Aspiring Cloud Data Engineer*  
-> [LinkedIn](https://www.linkedin.com/in/palina-krasiuk-954404372/) • [Main Portfolio](../README.md)
+## 🔍 Key Findings
+
+- **Revenue** dropped by ~40% over 5 years  
+- **COGS** increased despite falling sales  
+- **Net Profit** turned deeply negative (from +100K to –290K)  
+- **Debt** grew sixfold (from 150K to 900K)  
+- All key profit margins became negative  
+- Admin and marketing expenses rose but did not help revenue  
+
+---
+
+## 💡 Recommendations
+
+- Reduce administrative and marketing overhead  
+- Improve operational efficiency and COGS control  
+- Restructure debt and avoid new borrowing  
+- Shut down unprofitable business lines  
+- Establish financial monitoring and analytics
+
+---
+
+## 👩‍💻 Author
+
+**Palina Krasiuk**  
+Aspiring Cloud & Data Engineer | ex-Senior Accountant  
+[LinkedIn](https://www.linkedin.com/in/palina-krasiuk-954404372/) • [GitHub Portfolio](https://github.com/CloudDataPalina)
