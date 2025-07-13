@@ -51,32 +51,33 @@ Data source: [`techno_prom_financials.csv`](techno_prom_financials.csv)
 
 ## 📈 Visualizations
 
-- 📉 **Net Profit vs Year-End Debt** (Line Chart)
-- 📊 **5-Year Change in Financial Indicators** (Bar Chart)
-- 📊 **Trendlines of Gross, Operating, and Net Profit Margins**
+- 📉 **Net Profit vs Year-End Debt** — анализ падения прибыли и роста долга
+- 📊 **5-Year Change in Financial Indicators** — процентные изменения ключевых метрик
+- 📈 **Trendlines of Gross, Operating, and Net Profit Margins** — динамика убыточности
+- 🥧 **Expense Structure in Year 5** — круговая диаграмма структуры расходов
+- 📉 **Revenue vs Operating Expenses** — момент, когда затраты превышают выручку
 
 *(All visualizations available in `analysis.ipynb`)*
 
 ---
 
 ## 🔍 Key Findings
-
-- **Revenue** dropped by ~40% over 5 years  
-- **COGS** increased despite falling sales  
-- **Net Profit** turned deeply negative (from +100K to –290K)  
-- **Debt** grew sixfold (from 150K to 900K)  
-- All key profit margins became negative  
-- Admin and marketing expenses rose but did not help revenue  
+-  Revenue declined by 38.5% (from 520K to 320K) — indicating loss of clients or demand
+-  COGS increased by 13.8% (from 290K to 330K) — despite falling sales, efficiency worsened
+-  Net Profit dropped from +100K to –290K — a full reversal into deep losses
+-  Year-End Debt grew from 80K to 520K — a 6.5× increase, signaling rising insolvency risk
+-  Profit Margins (Gross, Operating, Net) fell sharply and all turned negative
+-  Admin & Marketing Costs doubled (from 80K to 155K), while revenue dropped — showing inefficient spending
 
 ---
 
 ## 💡 Recommendations
 
-- Reduce administrative and marketing overhead  
-- Improve operational efficiency and COGS control  
-- Restructure debt and avoid new borrowing  
-- Shut down unprofitable business lines  
-- Establish financial monitoring and analytics
+- 🧾 **Cut unnecessary overhead** — especially administrative and marketing costs  
+- ⚙️ **Audit and optimize COGS** — improve supply chain and operational efficiency  
+- 💳 **Restructure debt** — avoid new borrowing until financial stabilization  
+- 🎯 **Focus on profitable segments** — shut down unprofitable business lines  
+- 📊 **Implement strong financial analytics** — enable data-driven decisions and forecasting
 
 ---
 
