@@ -58,6 +58,7 @@ Data source: [`techno_prom_financials.csv`](techno_prom_financials.csv)
 - 📉 **Revenue vs Operating Expenses** — identifying the tipping point when expenses exceeded revenue  
 
 **Note:** The dataset was manually created by the author for the purposes of this project. 
+
 *(All visualizations are available in `1 final project eng.ipynb`)*
 
 
