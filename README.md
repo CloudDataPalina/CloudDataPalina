@@ -14,7 +14,7 @@ I enjoy working with data, transforming spreadsheets into insights, and solving 
 ## 🧠 Skills 
 - Python (Pandas, NumPy, OOP)
 - SQL (MySQL, Oracle)
-- Linux, Git, Shell scripting - in progress
+- Linux, Shell scripting - in progress
 - Cloud Platforms (GCP, AWS) - in progress
 - ETL & Data Pipelines - in progress
 - Data Science and Data Engineering Fundamentals
