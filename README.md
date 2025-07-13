@@ -19,10 +19,8 @@ I enjoy working with data, transforming spreadsheets into insights, and solving 
 - ETL & Data Pipelines - in progress
 - Data Science and Data Engineering Fundamentals
 - Data Visualization (Jupyter, matplotlib)
-- Git, GitHub, VS Code
 
 ---
-
 
 ### 🚀 My Projects
 
