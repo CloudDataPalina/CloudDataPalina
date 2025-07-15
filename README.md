@@ -47,9 +47,9 @@ I'm completing the [IBM Data Engineer Professional Certificate](https://www.cour
 
 ---
 
-# 📜 Certificates
+## 📜 Certificates
 
- ## Coursera
+    ### Coursera
 
 - [Python for Data Science, AI & Development ](https://www.coursera.org/account/accomplishments/verify/RE1QJ5J27Q9M) - 06.07.2025
 - [Introduction to Data Engineering ](https://www.coursera.org/account/accomplishments/verify/Q1QM933TRCOI) - 16.05.2025 
@@ -57,12 +57,12 @@ I'm completing the [IBM Data Engineer Professional Certificate](https://www.cour
 - [What is Data Science? ](https://www.coursera.org/account/accomplishments/verify/6XFV92CM88JB) - 29.01.2025
   
 
- ## Udemy
+    ### Udemy
 
 - [Oracle SQL Course ](https://www.udemy.com/certificate/UC-0980df6f-7645-4129-a572-7a045118e41e/) - 14.04.2025
   
 
- ## Stepik
+    ### Stepik
 
 - [Databases and SQL Course (MySQL based)](https://stepik.org/cert/2888336?lang=en) - 12.06.2025
 - [Object-Oriented Programming](https://stepik.org/cert/2530129?lang=en) - 28.07.2024 
