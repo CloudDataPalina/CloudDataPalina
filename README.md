@@ -37,13 +37,13 @@ An in-depth analysis of the fictional company **Technoprom Ltd.** and its 5-year
 
 ---
 
-### 📚 Currently Learning
-I'm completing the [IBM Data Engineer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer) on Coursera and applying my skills through practical projects.
+## 🌐 Connect with Me
+- [LinkedIn Profile](https://www.linkedin.com/in/palina-krasiuk-954404372/)
 
 ---
 
-## 🌐 Connect with Me
-- [LinkedIn Profile](https://www.linkedin.com/in/palina-krasiuk-954404372/)
+### 📚 Currently Learning
+I'm completing the [IBM Data Engineer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer) on Coursera and applying my skills through practical projects.
 
 ---
 
