@@ -79,7 +79,8 @@ I'm completing the [IBM Data Engineer Professional Certificate](https://www.cour
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Polinka1771&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CloudDataPalina&show_icons=true&theme=default)
+
 
 
   
