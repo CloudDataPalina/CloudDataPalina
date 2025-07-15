@@ -21,17 +21,18 @@ I enjoy working with data, transforming spreadsheets into insights, and solving 
 - Data Visualization (Jupyter, matplotlib)
 
 ---
-
 ### 🚀 My Projects
 
-#### [📉 Technoprom Ltd.: Financial Crisis Analysis (EDA Project)](https://github.com/CloudDataPalina/Technoprom-Financial-Analysis/blob/main/analysis.ipynb)
-EDA of 5 years of financial data for a fictional company:
-- Key metrics: revenue, gross/net profit, debt, margins
-- Dynamic visualizations of financial deterioration
-- Ratio analysis: Gross, Operating, Net Profit Margins
-- Business diagnosis with clear English commentary and recommendations
+📉 [Financial Crisis Analysis](https://github.com/CloudDataPalina/Financial-Crisis-Analysis)
 
- Tools used: `pandas`, `numpy`, `matplotlib`, `Jupyter Notebook`
+An in-depth analysis of a fictional company's 5-year financial collapse:
+
+- Key metrics analyzed: revenue, gross/net profit, debt, margins  
+- Year-by-year visualizations showing financial decline  
+- Ratio analysis: Gross, Operating, and Net Profit Margins  
+- Business diagnosis and strategic recommendations (in English)
+
+**Tools used:** `pandas`, `numpy`, `matplotlib`, `Jupyter Notebook`, `Python`
 
 ---
 
