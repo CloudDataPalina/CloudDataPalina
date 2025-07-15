@@ -22,6 +22,10 @@ I enjoy working with data, transforming spreadsheets into insights, and solving 
 
 ---
 
+🌍 **Languages**: Russian (native), Polish (B1), English (A2 plus -> learning B1 Level)
+
+---
+
 ## 🚀 My Projects
 
 ### [📉 Financial Crisis Analysis](https://github.com/CloudDataPalina/Financial-Crisis-Analysis)
