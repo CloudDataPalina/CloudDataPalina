@@ -21,11 +21,12 @@ I enjoy working with data, transforming spreadsheets into insights, and solving 
 - Data Visualization (Jupyter, matplotlib)
 
 ---
-### 🚀 My Projects
 
-# 📉 [Financial Crisis Analysis](https://github.com/CloudDataPalina/Financial-Crisis-Analysis)
+## 🚀 My Projects
 
-An in-depth analysis of a fictional company's 5-year financial collapse:
+📉 **Financial Crisis Analysis**
+
+An in-depth analysis of the fictional company **Technoprom Ltd.** and its 5-year financial collapse:
 
 - Key metrics analyzed: revenue, gross/net profit, debt, margins  
 - Year-by-year visualizations showing financial decline  
