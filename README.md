@@ -47,7 +47,7 @@ I'm completing the [IBM Data Engineer Professional Certificate](https://www.cour
 
 ---
 
-## 📜 Certificates
+## 🎓 Certificates
 
 ### Coursera
 
