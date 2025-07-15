@@ -75,6 +75,8 @@ I'm completing the [IBM Data Engineer Professional Certificate](https://www.cour
 - [Python Intermediate Course](https://stepik.org/cert/2341634?lang=en) - 25.01.2024   
 - [Python Beginner Course](https://stepik.org/cert/2056820?lang=en) - 08.05.2023
 
+---
+
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Polinka1771&show_icons=true&theme=default)
