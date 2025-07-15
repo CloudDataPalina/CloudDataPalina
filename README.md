@@ -24,7 +24,7 @@ I enjoy working with data, transforming spreadsheets into insights, and solving 
 
 ## 🚀 My Projects
 
-### 📉 **Financial Crisis Analysis**
+### [📉 Financial Crisis Analysis](https://github.com/CloudDataPalina/Financial-Crisis-Analysis)
 
 An in-depth analysis of the fictional company **Technoprom Ltd.** and its 5-year financial collapse:
 
