@@ -24,7 +24,7 @@ I enjoy working with data, transforming spreadsheets into insights, and solving 
 
 ### 🚀 My Projects
 
-#### [📉 Technoprom Financial Crisis Analysis (EDA Project)](https://github.com/CloudDataPalina/CloudDataPalina/tree/main/BankruptcyAnalysis)
+#### [📉 Technoprom Financial Crisis Analysis](https://github.com/CloudDataPalina/Technoprom-Financial-Analysis/blob/main/analysis.ipynb)
 EDA of 5 years of financial data for a fictional company:
 - Key metrics: revenue, gross/net profit, debt, margins
 - Dynamic visualizations of financial deterioration
