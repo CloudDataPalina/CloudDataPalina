@@ -17,6 +17,7 @@ I enjoy working with data, transforming spreadsheets into insights, and solving 
 - Linux, Shell scripting - in progress
 - Cloud Platforms (GCP, AWS) - in progress
 - ETL & Data Pipelines - in progress
+- Web Scraping with BeautifulSoup & HTML Parsing
 - Data Science and Data Engineering Fundamentals
 - Data Visualization (Jupyter, matplotlib)
 
