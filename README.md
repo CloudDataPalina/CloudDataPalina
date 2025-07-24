@@ -39,7 +39,7 @@ An in-depth analysis of the fictional company **Technoprom Ltd.** and its 5-year
 
 **Tools used:** `pandas`, `numpy`, `matplotlib`, `Jupyter Notebook`, `Python`
 
---
+---
 
 ### 🌍 [Quality of Life Analysis – 2025](https://github.com/CloudDataPalina/Quality-of-Life-2025)
 
