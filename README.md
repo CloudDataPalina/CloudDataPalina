@@ -39,6 +39,18 @@ An in-depth analysis of the fictional company **Technoprom Ltd.** and its 5-year
 
 **Tools used:** `pandas`, `numpy`, `matplotlib`, `Jupyter Notebook`, `Python`
 
+
+### 🌍 [Quality of Life Analysis – 2025](https://github.com/CloudDataPalina/Quality-of-Life-2025)
+
+A web scraping and data visualization project exploring the quality of life across global cities in 2025:
+
+- Parsed local HTML from Numbeo using `BeautifulSoup`
+- Focused on three core indexes: **Quality of Life**, **Safety**, and **Health Care**
+- Visualized Top-20 cities using horizontal bar charts
+- Exported results in `.csv`, `.png`, and `.svg` formats
+
+**Tools used:** `Python`, `pandas`, `BeautifulSoup`, `matplotlib`, `Jupyter Notebook`
+
 ---
 
 ## 🌐 Connect with Me
