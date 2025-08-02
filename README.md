@@ -29,7 +29,7 @@ I enjoy working with data, transforming spreadsheets into insights, and solving 
 
 ## 🚀 My Projects
 
-### 🚗 [Car Price ETL Project](https://github.com/CloudDataPalina/ETL_Project/blob/main/ETL_project.ipynb)
+### 🚗 [Car Price ETL Project](https://github.com/CloudDataPalina/ETL_Project/)
 
 A mini ETL pipeline that extracts, transforms, and loads used car price data from multiple formats:
 
