@@ -34,11 +34,11 @@ I enjoy working with data, transforming spreadsheets into insights, and solving 
 A mini ETL pipeline that extracts, transforms, and loads used car price data from multiple formats:
 
 - Parsed source data from `.csv`, `.json`, and `.xml` files  
-- Unified the structure into a single cleaned DataFrame  
-- Logged the entire ETL process using a text log file  
-- Exported final results to `.xls` for further analysis
+- Transformed and merged into a single cleaned DataFrame  
+- Logged each ETL step with timestamps in `log_file.txt`  
+- Exported the final result to `transformed_data.csv`
 
-**Tools used:** `Python`, `pandas`, `glob`, `os`, `xml.etree.ElementTree`, `Jupyter Notebook`
+**Tools used:** `Python`, `pandas`, `glob`, `csv`, `json`, `xml.etree.ElementTree`, `Jupyter Notebook`
 
 ---
 
