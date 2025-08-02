@@ -29,16 +29,16 @@ I enjoy working with data, transforming spreadsheets into insights, and solving 
 
 ## 🚀 My Projects
 
-### [📉 Financial Crisis Analysis](https://github.com/CloudDataPalina/Financial-Crisis-Analysis)
+### 🚗 [Car Price ETL Project](https://github.com/CloudDataPalina/ETL_Project/blob/main/ETL_project.ipynb)
 
-An in-depth analysis of the fictional company **Technoprom Ltd.** and its 5-year financial collapse:
+A mini ETL pipeline that extracts, transforms, and loads used car price data from multiple formats:
 
-- Key metrics analyzed: revenue, gross/net profit, debt, margins  
-- Year-by-year visualizations showing financial decline  
-- Ratio analysis: Gross, Operating, and Net Profit Margins  
-- Business diagnosis and strategic recommendations (in English)
+- Parsed source data from `.csv`, `.json`, and `.xml` files  
+- Unified the structure into a single cleaned DataFrame  
+- Logged the entire ETL process using a text log file  
+- Exported final results to `.xls` for further analysis
 
-**Tools used:** `pandas`, `numpy`, `matplotlib`, `Jupyter Notebook`, `Python`
+**Tools used:** `Python`, `pandas`, `glob`, `os`, `xml.etree.ElementTree`, `Jupyter Notebook`
 
 ---
 
@@ -52,6 +52,19 @@ A web scraping and data visualization project exploring the quality of life acro
 - Exported results in `.csv`, `.png`, and `.svg` formats
 
 **Tools used:** `Python`, `pandas`, `BeautifulSoup`, `matplotlib`, `Jupyter Notebook`
+
+---
+
+### [📉 Financial Crisis Analysis](https://github.com/CloudDataPalina/Financial-Crisis-Analysis)
+
+An in-depth analysis of the fictional company **Technoprom Ltd.** and its 5-year financial collapse:
+
+- Key metrics analyzed: revenue, gross/net profit, debt, margins  
+- Year-by-year visualizations showing financial decline  
+- Ratio analysis: Gross, Operating, and Net Profit Margins  
+- Business diagnosis and strategic recommendations (in English)
+
+**Tools used:** `pandas`, `numpy`, `matplotlib`, `Jupyter Notebook`, `Python`
 
 ---
 
