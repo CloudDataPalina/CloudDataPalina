@@ -33,13 +33,13 @@ I enjoy working with data, transforming spreadsheets into insights, and solving 
 
 A mini ETL pipeline that extracts, transforms, and loads used car price data from multiple formats:
 
-- Parsed source data from `.csv`, `.json`, and `.xml` files  
-- Transformed and merged into a single cleaned DataFrame  
-- Logged each ETL step with timestamps in `log_file.txt`  
-- Exported the final result to `transformed_data.csv`  
-- Generated insightful visualizations using `matplotlib`
+- Parsed data from `.csv`, `.json`, and `.xml` sources  
+- Transformed and merged into a cleaned DataFrame  
+- Logged all steps with timestamps (`log_file.txt`)  
+- Exported final dataset to `.csv` and charts to `.png`  
+- Created visual insights with `matplotlib`
 
-**Tools used:** `Python`, `pandas`, `matplotlib`, `glob`, `csv`, `json`, `xml.etree.ElementTree`, `Jupyter Notebook`
+**Tools:** `Python`, `pandas`, `matplotlib`, `glob`, `csv`, `json`, `xml.etree.ElementTree`, `Jupyter Notebook`
 
 ---
 
