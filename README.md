@@ -36,9 +36,10 @@ A mini ETL pipeline that extracts, transforms, and loads used car price data fro
 - Parsed source data from `.csv`, `.json`, and `.xml` files  
 - Transformed and merged into a single cleaned DataFrame  
 - Logged each ETL step with timestamps in `log_file.txt`  
-- Exported the final result to `transformed_data.csv`
+- Exported the final result to `transformed_data.csv`  
+- Generated insightful visualizations using `matplotlib`
 
-**Tools used:** `Python`, `pandas`, `glob`, `csv`, `json`, `xml.etree.ElementTree`, `Jupyter Notebook`
+**Tools used:** `Python`, `pandas`, `matplotlib`, `glob`, `csv`, `json`, `xml.etree.ElementTree`, `Jupyter Notebook`
 
 ---
 
