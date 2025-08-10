@@ -29,6 +29,19 @@ I enjoy working with data, transforming spreadsheets into insights, and solving 
 
 ## 🚀 My Projects
 
+### 🏦 [Largest Banks ETL Project](https://github.com/CloudDataPalina/Largest-Banks-ETL)
+A mini ETL pipeline that scrapes and processes market capitalization data for the world’s largest banks:  
+
+- Scraped bank names and market capitalization from an archived Wikipedia page using `BeautifulSoup` and `requests`  
+- Converted USD values to GBP and EUR using exchange rates from `.csv`  
+- Stored results in `.csv` and SQLite (`Banks.db`)  
+- Generated visualization for Top-5 banks in `.svg` format  
+- Logged all ETL process steps to `code_log.txt` for traceability  
+
+**Tools:** `Python`, `pandas`, `numpy`, `requests`, `BeautifulSoup`, `sqlite3`, `matplotlib`, `Jupyter Notebook`
+
+---
+
 ### 🚗 [Car Price ETL Project](https://github.com/CloudDataPalina/ETL_Project/)
 
 A mini ETL pipeline that extracts, transforms, and loads used car price data from multiple formats:
