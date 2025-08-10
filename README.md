@@ -11,6 +11,7 @@ I value **accuracy**, **clarity**, and **structured workflows**, and I genuinely
 💡 **Open to**: collaboration, internships, and job opportunities  
 📍 **Location**: Poland
 
+
 ---
 
 ## 🛠 Tech Stack  
