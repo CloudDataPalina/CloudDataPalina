@@ -60,7 +60,7 @@ transforms the data into multiple currencies (USD, GBP, EUR), and stores it in C
 
 ### 🚗 [Car Price ETL Project](https://github.com/CloudDataPalina/ETL_Project/)
 
-A mini ETL pipeline that extracts, transforms, and loads used car price data from multiple formats:
+A mini **ETL pipeline** that extracts, transforms, and loads used car price data **from multiple formats**:
 
 - Parsed data from `.csv`, `.json`, and `.xml` sources  
 - Transformed and merged into a cleaned DataFrame  
