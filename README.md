@@ -3,7 +3,7 @@
 **Aspiring Cloud Data Engineer** with 15+ years of experience as a **Chief Accountant**, now transitioning into data engineering.  
 
 I specialize in **ETL pipelines**, **data analysis**, and **visualization**, transforming raw data into actionable insights.  
-Currently pursuing the **IBM Data Engineer Professional Certificate** on Coursera (IBM, Google, etc.).
+Currently pursuing the **IBM Data Engineer Professional Certificate** on Coursera, focusing on modern data engineering tools and practices.
 
 💡 **Open to**: collaboration, internships, and job opportunities  
 📍 **Location**: Poland
