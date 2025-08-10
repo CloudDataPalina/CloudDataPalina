@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Palina Krasiuk
 
-**Aspiring Cloud Data Engineer** with 15+ years of experience as a **Chief Accountant**, now transitioning into data engineering.  
-I specialize in **ETL pipelines, data analysis, and visualization**, transforming raw data into actionable insights.  
-Currently completing the **IBM Data Engineer Professional Certificate** on Coursera (IBM, Google, etc.), learning **Python, SQL, Data Pipelines, GCP & AWS**.  
+**Aspiring Cloud Data Engineer** with 15+ years of experience as a **Chief Accountant**, now transitioning into the data engineering field.  
 
-💡 Open to **collaboration, internships, and job opportunities**.  
-📍 Based in Poland
+I focus on **ETL pipelines**, **data analysis**, and **data visualization**, transforming raw data into actionable insights.  
+Currently pursuing the **IBM Data Engineer Professional Certificate** on Coursera (IBM, Google, etc.) — mastering **Python, SQL, Data Pipelines, GCP & AWS** through hands-on projects.
+
+💡 **Open to**: collaboration, internships, and job opportunities  
+📍 **Based in**: Poland  
 
 ---
 
@@ -24,20 +25,20 @@ Currently completing the **IBM Data Engineer Professional Certificate** on Cours
 
 ---
 
-## 🧠 Skills 
+## 🧠 Skills  
 
 - **Python** (Pandas, NumPy, OOP)  
 - **SQL** (MySQL, Oracle)  
 - **Linux, Shell scripting** – in progress  
 - **Cloud Platforms** (GCP, AWS) – in progress  
 - **ETL & Data Pipelines**  
-- **Web Scraping** with BeautifulSoup & HTML Parsing  
-- **Data Visualization** (Jupyter, matplotlib)  
-- Data Science & Data Engineering Fundamentals
+- **Web Scraping** (BeautifulSoup, HTML Parsing)  
+- **Data Visualization** (Jupyter, Matplotlib)  
+- Data Science & Data Engineering Fundamentals  
 
 ---
 
-🌍 **Languages**: Russian (native), Polish (B1), English (A2 plus -> learning B1 Level)
+🌍 **Languages**: Russian (native), Polish (B1), English (A2+ → learning B1)  
 
 ---
 
@@ -103,8 +104,18 @@ An in-depth analysis of the fictional company **Technoprom Ltd.** and its 5-year
 
 ---
 
-### 📚 Currently Learning
-I'm completing the [IBM Data Engineer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer) on Coursera and applying my skills through practical projects.
+### 📅 Learning Path
+
+**🎯 Current Focus**  
+[IBM Data Engineer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer) — mastering **Python**, **SQL**, **ETL**, and **cloud platforms** through hands-on, real-world projects.
+
+**🛠 Next Steps**  
+1. Advance **SQL & Databases** (PostgreSQL, NoSQL, administration)  
+2. Build and optimize **ETL pipelines** with **Apache Airflow** & **Kafka**  
+3. Develop **Data Warehousing** solutions and create BI dashboards  
+4. Work with **Big Data** using **Apache Spark**  
+5. Gain multi-cloud expertise (**GCP**, **AWS**)  
+6. Complete a **Data Engineering Capstone Project** and prepare for technical interviews  
 
 ---
 
