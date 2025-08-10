@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Palina Krasiuk
 
-**Aspiring Cloud Data Engineer** with 15+ years of experience as a **Chief Accountant**, now transitioning into the data engineering field.  
+**Aspiring Cloud Data Engineer** with 15+ years of experience as a **Chief Accountant**, now transitioning into data engineering.  
 
-I focus on **ETL pipelines**, **data analysis**, and **data visualization**, transforming raw data into actionable insights.  
-Currently pursuing the **IBM Data Engineer Professional Certificate** on Coursera (IBM, Google, etc.) — mastering **Python, SQL, Data Pipelines, GCP & AWS** through hands-on projects.
+I specialize in **ETL pipelines**, **data analysis**, and **visualization**, transforming raw data into actionable insights.  
+Currently pursuing the **IBM Data Engineer Professional Certificate** on Coursera (IBM, Google, etc.).
 
 💡 **Open to**: collaboration, internships, and job opportunities  
-📍 **Based in**: Poland  
+📍 **Location**: Poland
 
 ---
 
