@@ -9,27 +9,31 @@ Currently completing the **IBM Data Engineer Professional Certificate** on Cours
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
 ## 🧠 Skills 
-- Python (Pandas, NumPy, OOP)
-- SQL (MySQL, Oracle)
-- Linux, Shell scripting - in progress
-- Cloud Platforms (GCP, AWS) - in progress
-- ETL & Data Pipelines 
-- Web Scraping with BeautifulSoup & HTML Parsing
-- Data Science and Data Engineering Fundamentals
-- Data Visualization (Jupyter, matplotlib)
+
+- **Python** (Pandas, NumPy, OOP)  
+- **SQL** (MySQL, Oracle)  
+- **Linux, Shell scripting** – in progress  
+- **Cloud Platforms** (GCP, AWS) – in progress  
+- **ETL & Data Pipelines**  
+- **Web Scraping** with BeautifulSoup & HTML Parsing  
+- **Data Visualization** (Jupyter, matplotlib)  
+- Data Science & Data Engineering Fundamentals
 
 ---
 
