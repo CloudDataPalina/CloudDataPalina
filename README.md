@@ -1,13 +1,23 @@
 # 👋 Hi, I'm Palina Krasiuk
 
-I enjoy working with data, transforming spreadsheets into insights, and solving real-world problems
+**Aspiring Cloud Data Engineer** with 15+ years of experience as a **Chief Accountant**, now transitioning into data engineering.  
+I specialize in **ETL pipelines, data analysis, and visualization**, transforming raw data into actionable insights.  
+Currently completing the **IBM Data Engineer Professional Certificate** on Coursera (IBM, Google, etc.), learning **Python, SQL, Data Pipelines, GCP & AWS**.  
 
-- **Aspiring Cloud Data Engineer**
-- Ex-Senior Accountant with 15+ years of experience  
-- Learning: Python, SQL, Data Pipelines, GCP & AWS  
-- Currently studying on Coursera (IBM, Google, etc.)  
-- Open to collaboration, job opportunities, and internships
-- Based in Poland
+💡 Open to **collaboration, internships, and job opportunities**.  
+📍 Based in Poland
+
+---
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
@@ -30,15 +40,17 @@ I enjoy working with data, transforming spreadsheets into insights, and solving 
 ## 🚀 My Projects
 
 ### 🏦 [Largest Banks ETL Project](https://github.com/CloudDataPalina/Largest-Banks-ETL)
-A mini ETL pipeline that scrapes and processes market capitalization data for the world’s largest banks:  
 
-- Scraped bank names and market capitalization from an archived Wikipedia page using `BeautifulSoup` and `requests`  
-- Converted USD values to GBP and EUR using exchange rates from `.csv`  
-- Stored results in `.csv` and SQLite (`Banks.db`)  
-- Generated visualization for Top-5 banks in `.svg` format  
-- Logged all ETL process steps to `code_log.txt` for traceability  
+A **web scraping + ETL** pipeline that extracts the *largest banks* by market capitalization from Wikipedia,  
+transforms the data into multiple currencies (USD, GBP, EUR), and stores it in CSV and SQLite for further analysis.
 
-**Tools:** `Python`, `pandas`, `numpy`, `requests`, `BeautifulSoup`, `sqlite3`, `matplotlib`, `Jupyter Notebook`
+- Extracted and parsed HTML table from Wikipedia using **BeautifulSoup**
+- Transformed market capitalization from USD into GBP and EUR using exchange rates CSV
+- Saved processed datasets into `.csv` and `.db`
+- Logged all processing steps with timestamps (`code_log.txt`)
+- Created visual insights using **Matplotlib** (Top-5 banks by market cap)
+
+**Tools:** Python, pandas, numpy, BeautifulSoup, requests, matplotlib, sqlite3, Jupyter Notebook
 
 ---
 
