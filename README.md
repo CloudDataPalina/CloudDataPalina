@@ -125,7 +125,7 @@ An in-depth analysis of the fictional company **Technoprom Ltd.** and its 5-year
 
 ## 🎓 Certificates
 
-### Coursera
+### IBM / Coursera
 
 - [Python Project for Data Engineering ](https://coursera.org/share/7db0e33b2da935334bc601a87de1f2fc) - 01.08.2025
 - [Python for Data Science, AI & Development ](https://www.coursera.org/account/accomplishments/verify/RE1QJ5J27Q9M) - 06.07.2025
