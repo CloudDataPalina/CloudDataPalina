@@ -48,6 +48,20 @@ I value **accuracy**, **clarity**, and **structured workflows**, and I genuinely
 
 ## 🚀 My Projects
 
+### ☕ [Coffee Shop Database](https://github.com/CloudDataPalina/Coffee-Shop-Database)
+
+A mini end-to-end RDBMS project that designs a relational model for a coffee shop and makes the data portable across systems.
+
+- Designed ERD → generated DDL → loaded demo data in **PostgreSQL**
+- Built **views** + a **materialized view** for analytics
+- Exported views to **CSV** and imported into **MySQL** and **IBM Db2** (with screenshots)
+- One-command reproducible run in **GitHub Codespaces** via `run_all.sh` (Docker)
+- Included sample analytical queries and quick sanity checks
+
+**Tools:** PostgreSQL, SQL (DDL/DML, PL/pgSQL), Docker, Bash, GitHub Codespaces, MySQL, IBM Db2, pgAdmin
+
+---
+
 ### 🏦 [Largest Banks ETL Project](https://github.com/CloudDataPalina/Largest-Banks-ETL)
 
 A **web scraping + ETL** pipeline that extracts the *largest banks* by market capitalization from Wikipedia,  
@@ -126,7 +140,7 @@ An in-depth analysis of the fictional company **Technoprom Ltd.** and its 5-year
 ## 🎓 Certificates
 
 ### IBM / Coursera
-
+- [Introduction to Relational Databases (RDBMS)](https://coursera.org/share/b1b9e2b978131fb51f61eb0502695e25)) - 24.08.2025
 - [Python Project for Data Engineering ](https://coursera.org/share/7db0e33b2da935334bc601a87de1f2fc) - 01.08.2025
 - [Python for Data Science, AI & Development ](https://www.coursera.org/account/accomplishments/verify/RE1QJ5J27Q9M) - 06.07.2025
 - [Introduction to Data Engineering ](https://www.coursera.org/account/accomplishments/verify/Q1QM933TRCOI) - 16.05.2025 
