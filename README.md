@@ -11,39 +11,28 @@ I value **accuracy**, **clarity**, and **structured workflows**, and I genuinely
 💡 **Open to**: collaboration, internships, and job opportunities  
 📍 **Location**: Poland
 
-
 ---
 
 ## 🛠 Tech Stack  
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub Codespaces](https://img.shields.io/badge/GitHub%20Codespaces-000000?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![IBM Db2](https://img.shields.io/badge/IBM%20Db2-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![GitHub Codespaces](https://img.shields.io/badge/GitHub%20Codespaces-000000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🧠 Skills  
-
-- **Python** (Pandas, NumPy, OOP)  
-- **SQL** (MySQL, Oracle, PostgreSQL)  
-- **Linux, Shell scripting** – in progress  
-- **Cloud Platforms** (GCP, AWS) – in progress
-- **IBM Db2 on Cloud** 
-- **ETL & Data Pipelines**  
-- **Web Scraping** (BeautifulSoup, HTML Parsing)  
-- **Data Visualization** (Jupyter, Matplotlib)
-- **GitHub Codespaces** 
-- Data Science & Data Engineering Fundamentals  
+## 🧠 Skills
+- **Programming:** Python (Pandas, NumPy), OOP
+- **SQL & Databases:** PostgreSQL 16 (views, materialized views, PL/pgSQL basics), MySQL, Oracle, IBM Db2 on Cloud
+- **Data Engineering:** ETL pipelines, data modeling (ERD/normalization), CSV/COPY exports; psql & pgAdmin
+- **Visualization:** Jupyter Notebook, Matplotlib
+- **Web Scraping:** Requests + BeautifulSoup (HTML parsing)
+- **Cloud & Tooling:** GitHub Codespaces (hands-on)
+- **Learning:** AWS, GCP, Linux, Bash
+- **Foundations:** Data Science & Data Engineering fundamentals
 
 ---
 
