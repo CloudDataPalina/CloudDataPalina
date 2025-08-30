@@ -58,7 +58,7 @@ A mini end-to-end RDBMS project that designs a relational model for a coffee sho
 - One-command reproducible run in **GitHub Codespaces** via `run_all.sh` (Docker)
 - Included sample analytical queries and quick sanity checks
 
-**Tools:** PostgreSQL, SQL (DDL/DML, PL/pgSQL), Docker, Bash, GitHub Codespaces, MySQL, IBM Db2, pgAdmin
+**Tools:** `PostgreSQL`, `SQL (DDL/DML, PL/pgSQL)`, `GitHub Codespaces`, `MySQL`, `IBM Db2`, `pgAdmin`
 
 ---
 
@@ -73,7 +73,7 @@ transforms the data into multiple currencies (USD, GBP, EUR), and stores it in C
 - Logged all processing steps with timestamps (`code_log.txt`)
 - Created visual insights using **Matplotlib** (Top-5 banks by market cap)
 
-**Tools:** Python, pandas, numpy, BeautifulSoup, requests, matplotlib, sqlite3, Jupyter Notebook
+**Tools:** `Python`, `pandas`, `numpy`, `BeautifulSoup`, `requests`, `matplotlib`, `sqlite3`, `Jupyter Notebook`
 
 ---
 
