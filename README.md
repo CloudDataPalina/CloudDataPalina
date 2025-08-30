@@ -26,18 +26,23 @@ I value **accuracy**, **clarity**, and **structured workflows**, and I genuinely
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub Codespaces](https://img.shields.io/badge/GitHub%20Codespaces-000000?style=for-the-badge&logo=github&logoColor=white)
+![IBM Db2](https://img.shields.io/badge/IBM%20Db2-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
 
 ---
 
 ## 🧠 Skills  
 
 - **Python** (Pandas, NumPy, OOP)  
-- **SQL** (MySQL, Oracle)  
+- **SQL** (MySQL, Oracle, PostgreSQL)  
 - **Linux, Shell scripting** – in progress  
-- **Cloud Platforms** (GCP, AWS) – in progress  
+- **Cloud Platforms** (GCP, AWS) – in progress
+- **IBM Db2 on Cloud** 
 - **ETL & Data Pipelines**  
 - **Web Scraping** (BeautifulSoup, HTML Parsing)  
-- **Data Visualization** (Jupyter, Matplotlib)  
+- **Data Visualization** (Jupyter, Matplotlib)
+- **GitHub Codespaces** 
 - Data Science & Data Engineering Fundamentals  
 
 ---
