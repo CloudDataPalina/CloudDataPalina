@@ -148,8 +148,8 @@ An in-depth analysis of the fictional company **Technoprom Ltd.** and its 5-year
 ## 🎓 Certificates
 
 ### IBM / Coursera
-- [Databases and SQL for Data Science with Python](https://coursera.org/share/12f6ea584d1a20f93de532badc8e8c66)) - 15.09.2025
-- [Introduction to Relational Databases (RDBMS)](https://coursera.org/share/b1b9e2b978131fb51f61eb0502695e25)) - 24.08.2025
+- [Databases and SQL for Data Science with Python](https://coursera.org/share/12f6ea584d1a20f93de532badc8e8c66) - 15.09.2025
+- [Introduction to Relational Databases (RDBMS)](https://coursera.org/share/b1b9e2b978131fb51f61eb0502695e25) - 24.08.2025
 - [Python Project for Data Engineering ](https://coursera.org/share/7db0e33b2da935334bc601a87de1f2fc) - 01.08.2025
 - [Python for Data Science, AI & Development ](https://www.coursera.org/account/accomplishments/verify/RE1QJ5J27Q9M) - 06.07.2025
 - [Introduction to Data Engineering ](https://www.coursera.org/account/accomplishments/verify/Q1QM933TRCOI) - 16.05.2025 
