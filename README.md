@@ -41,6 +41,18 @@ I value **accuracy**, **clarity**, and **structured workflows**, and I genuinely
 ---
 
 ## 🚀 My Projects
+ 
+### 🏙️ Chicago SQL Data Analysis
+
+A hands-on SQL + Python project analyzing socioeconomic indicators, crime data and public school metrics for Chicago community areas.  
+
+- Built SQL queries and joins across multiple datasets (socioeconomic, crime, schools).  
+- Created a **VIEW** in IBM Db2 and developed a stored procedure `UPDATE_LEADERS_SCORE` with transaction control (COMMIT/ROLLBACK).  
+- Produced visual insights: scatter plots of **Income vs. Hardship Index** and **Poverty vs. School Safety Score** (saved to `/images`).  
+- Included screenshots of all SQL queries and Db2 objects for reproducibility.  
+- Organized the project into clear folders: `/data`, `/images`, `/screens`, `/notebooks`.  
+
+**Tools:** `Python`, `pandas`, `sqlite3`, `ipython-sql`, `matplotlib`, `seaborn`, `IBM Db2 on Cloud`, `GitHub Codespaces`
 
 ### ☕ [Coffee Shop Database](https://github.com/CloudDataPalina/Coffee-Shop-Database)
 
