@@ -42,7 +42,7 @@ I value **accuracy**, **clarity**, and **structured workflows**, and I genuinely
 
 ## 🚀 My Projects
  
-### 🏙️ Chicago SQL Data Analysis
+### 🏙️ [Chicago SQL Data Analysis](https://github.com/CloudDataPalina/Chicago-SQL-Data-Analysis)
 
 A hands-on SQL + Python project analyzing socioeconomic indicators, crime data and public school metrics for Chicago community areas.  
 
@@ -53,6 +53,8 @@ A hands-on SQL + Python project analyzing socioeconomic indicators, crime data a
 - Organized the project into clear folders: `/data`, `/images`, `/screens`, `/notebooks`.  
 
 **Tools:** `Python`, `pandas`, `sqlite3`, `ipython-sql`, `matplotlib`, `seaborn`, `IBM Db2 on Cloud`, `GitHub Codespaces`
+
+---
 
 ### ☕ [Coffee Shop Database](https://github.com/CloudDataPalina/Coffee-Shop-Database)
 
