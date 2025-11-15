@@ -21,6 +21,8 @@ I value **accuracy**, **clarity**, and **structured workflows**, and I genuinely
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![GitHub Codespaces](https://img.shields.io/badge/GitHub%20Codespaces-000000?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
@@ -28,10 +30,11 @@ I value **accuracy**, **clarity**, and **structured workflows**, and I genuinely
 - **Programming:** Python (Pandas, NumPy), OOP
 - **SQL & Databases:** PostgreSQL 16 (views, materialized views, PL/pgSQL basics), MySQL, Oracle, IBM Db2 on Cloud
 - **Data Engineering:** ETL pipelines, data modeling (ERD/normalization), CSV/COPY exports; psql & pgAdmin
+- **Bash & Linux:** Bash scripting, cron automation, curl, grep/awk/cut, tar/gzip
 - **Visualization:** Jupyter Notebook, Matplotlib
 - **Web Scraping:** Requests + BeautifulSoup (HTML parsing)
 - **Cloud & Tooling:** GitHub Codespaces (hands-on)
-- **Learning:** AWS, GCP, Linux, Bash
+- **Learning:** AWS, GCP
 - **Foundations:** Data Science & Data Engineering fundamentals
 
 ---
@@ -41,6 +44,21 @@ I value **accuracy**, **clarity**, and **structured workflows**, and I genuinely
 ---
 
 ## 🚀 My Projects
+
+### 🌦️ [Bash Weather Forecast Pipeline](https://github.com/CloudDataPalina/bash-weather-pipeline)
+A fully automated end-to-end weather data pipeline built entirely in Bash.
+It collects real weather observations, computes forecast accuracy, generates weekly summaries and creates timestamped backups — all runnable manually or via cron automation.
+- Daily data collection from **wttr.in** using curl
+- Parsing HTML/text responses to extract **observed** and **forecasted** temperatures
+- Computing **signed** and **absolute** forecast accuracy
+- Generating **weekly min/max error** statistics
+- Automatic backup creation with timestamped `.tar.gz` archives
+- Clean, well-documented project with real execution logs and reproducible test runs in **GitHub Codespaces**
+- Includes a detailed **README** with pipeline diagram, usage steps, cron automation and sample output
+
+**Tools:** `Bash`, `curl`, `cron`, `grep/awk/cut`, `tar/gzip`, `Linux CLI`, `GitHub Codespaces`
+
+---
  
 ### 🏙️ [Chicago SQL Data Analysis](https://github.com/CloudDataPalina/Chicago-SQL-Data-Analysis)
 
