@@ -155,12 +155,11 @@ An in-depth analysis of the fictional company **Technoprom Ltd.** and its 5-year
 [IBM Data Engineer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer) — mastering **Python**, **SQL**, **ETL**, and **cloud platforms** through hands-on, real-world projects.
 
 **🛠 Next Steps**  
-1. Advance **SQL & Databases** (PostgreSQL, NoSQL, administration)  
-2. Build and optimize **ETL pipelines** with **Apache Airflow** & **Kafka**  
-3. Develop **Data Warehousing** solutions and create BI dashboards  
-4. Work with **Big Data** using **Apache Spark**  
-5. Gain multi-cloud expertise (**GCP**, **AWS**)  
-6. Complete a **Data Engineering Capstone Project** and prepare for technical interviews  
+1. Build and optimize **ETL pipelines** with **Apache Airflow** & **Kafka**  
+2. Develop **Data Warehousing** solutions and create BI dashboards  
+3. Work with **Big Data** using **Apache Spark**  
+4. Gain multi-cloud expertise (**GCP**, **AWS**)  
+5. Complete a **Data Engineering Capstone Project** and prepare for technical interviews  
 
 ---
 
