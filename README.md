@@ -15,6 +15,8 @@ I value **accuracy**, **clarity**, and **structured workflows**, and I genuinely
 
 ## 🛠 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![IBM Db2](https://img.shields.io/badge/IBM%20Db2-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
@@ -30,7 +32,7 @@ I value **accuracy**, **clarity**, and **structured workflows**, and I genuinely
 ## 🧠 Skills
 - **Programming:** Python (Pandas, NumPy), OOP
 - **SQL & Databases:** PostgreSQL 16 (views, materialized views, PL/pgSQL basics), MySQL, Oracle, IBM Db2 on Cloud
-- **Data Engineering:** ETL pipelines, data modeling (ERD/normalization), CSV/COPY exports; psql & pgAdmin
+- **Data Engineering:** ETL pipelines (batch & streaming), Apache Airflow (DAGs, BashOperator, PythonOperator), Apache Kafka (producers/consumers), data modeling (ERD/normalization), CSV/COPY exports
 - **Bash & Linux:** Bash scripting, cron automation, curl, grep/awk/cut, tar/gzip
 - **Visualization:** Jupyter Notebook, Matplotlib
 - **Web Scraping:** Requests + BeautifulSoup (HTML parsing)
@@ -38,24 +40,38 @@ I value **accuracy**, **clarity**, and **structured workflows**, and I genuinely
 - **Learning:** AWS, GCP
 - **Foundations:** Data Science & Data Engineering fundamentals
 
+
 ---
 
-🌍 **Languages**: Russian (native), Polish (B1), English (A2+ → learning B1)  
+🌍 **Languages**: Russian (native), Polish (B1), English (B1 → actively improving)  
 
 ---
 
 ## 🚀 My Projects
 
+### 🚦 [Toll Data Pipelines (Airflow & Kafka)](https://github.com/CloudDataPalina/toll-data-pipelines-airflow-kafka)
+
+An end-to-end **batch + streaming data engineering project** for processing traffic toll data using **Apache Airflow** and **Apache Kafka**.
+- Batch ETL pipelines orchestrated with **Apache Airflow** (BashOperator & PythonOperator)
+- Real-time streaming ingestion with **Apache Kafka → MySQL**
+- Vehicle passage events consumed from Kafka topic `toll`
+- Streaming data persisted in **MySQL** (`livetolldata table`)
+- Tested in **GitHub Codespaces** with local Kafka & MySQL services
+- Includes a clear **README** with architecture, data flow diagram, and sample output
+
+**Tools:** `Apache Airflow`, `Apache Kafka`, `Python`, `Bash`, `MySQL`, `Linux CLI`, `GitHub Codespaces`
+
+---
+
 ### 🌦️ [Bash Weather Forecast Pipeline](https://github.com/CloudDataPalina/bash-weather-pipeline)
-A fully automated end-to-end weather data pipeline built entirely in Bash.
-It collects real weather observations, computes forecast accuracy, generates weekly summaries and creates timestamped backups — all runnable manually or via cron automation.
+
+A fully automated **Bash-based data pipeline** that collects weather data and evaluates forecast accuracy.
 - Daily data collection from **wttr.in** using curl
-- Parsing HTML/text responses to extract **observed** and **forecasted** temperatures
-- Computing **signed** and **absolute** forecast accuracy
-- Generating **weekly min/max error** statistics
-- Automatic backup creation with timestamped `.tar.gz` archives
-- Clean, well-documented project with real execution logs and reproducible test runs in **GitHub Codespaces**
-- Includes a detailed **README** with pipeline diagram, usage steps, cron automation and sample output
+- Parsing observed vs forecasted temperatures
+- Forecast accuracy calculations and weekly summaries
+- Automated backups with timestamped `.tar.gz` archives
+- Reproducible runs and execution logs in **GitHub Codespaces**
+- Detailed **README** with pipeline diagram and sample output
 
 **Tools:** `Bash`, `curl`, `cron`, `grep/awk/cut`, `tar/gzip`, `Linux CLI`, `GitHub Codespaces`
 
@@ -155,17 +171,17 @@ An in-depth analysis of the fictional company **Technoprom Ltd.** and its 5-year
 [IBM Data Engineer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer) — mastering **Python**, **SQL**, **ETL**, and **cloud platforms** through hands-on, real-world projects.
 
 **🛠 Next Steps**  
-1. Build and optimize **ETL pipelines** with **Apache Airflow** & **Kafka**  
-2. Develop **Data Warehousing** solutions and create BI dashboards  
-3. Work with **Big Data** using **Apache Spark**  
-4. Gain multi-cloud expertise (**GCP**, **AWS**)  
-5. Complete a **Data Engineering Capstone Project** and prepare for technical interviews  
+1. Develop **Data Warehousing** solutions and create BI dashboards  
+2. Work with **Big Data** using **Apache Spark**  
+3. Gain multi-cloud expertise (**GCP**, **AWS**)  
+4. Complete a **Data Engineering Capstone Project** and prepare for technical interviews  
 
 ---
 
 ## 🎓 Certificates
 
 ### IBM / Coursera
+- [ETL and Data Pipelines with Shell, Airflow and Kafka](https://www.coursera.org/account/accomplishments/certificate/FKATB04P6S30) - 22.12.2025
 - [Relational Database Administration (DBA)](https://coursera.org/share/39f57a0da245b8851dae3e38bf51633a) - 29.11.2025
 - [Hands-on Introduction to Linux Commands and Shell Scripting](https://coursera.org/share/ef2ffe73099bd1eb450b4bfa911b60d3) - 15.11.2025
 - [Databases and SQL for Data Science with Python](https://coursera.org/share/12f6ea584d1a20f93de532badc8e8c66) - 15.09.2025
