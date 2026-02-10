@@ -63,6 +63,8 @@ This project demonstrates full lifecycle **database design, administration, auto
 
 **Tools:** `MySQL`, `PostgreSQL`, `Apache Airflow`, `Python`, `Bash`, `Linux`, `pgAdmin`, `phpMyAdmin`, `GitHub Codespaces`
 
+---
+
 ### 🚦 [Toll Data Pipelines (Airflow & Kafka)](https://github.com/CloudDataPalina/toll-data-pipelines-airflow-kafka)
 
 An end-to-end **batch + streaming data engineering project** for processing traffic toll data using **Apache Airflow** and **Apache Kafka**.
@@ -185,10 +187,9 @@ An in-depth analysis of the fictional company **Technoprom Ltd.** and its 5-year
 [IBM Data Engineer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer) — mastering **Python**, **SQL**, **ETL**, and **cloud platforms** through hands-on, real-world projects.
 
 **🛠 Next Steps**  
-1. Develop **Data Warehousing** solutions and create BI dashboards  
-2. Work with **Big Data** using **Apache Spark**  
-3. Gain multi-cloud expertise (**GCP**, **AWS**)  
-4. Complete a **Data Engineering Capstone Project** and prepare for technical interviews  
+1. Work with **Big Data** using **Apache Spark**  
+2. Gain multi-cloud expertise (**GCP**, **AWS**)  
+3. Complete a **Data Engineering Capstone Project** and prepare for technical interviews  
 
 ---
 
