@@ -49,6 +49,20 @@ I value **accuracy**, **clarity**, and **structured workflows**, and I genuinely
 
 ## 🚀 My Projects
 
+### 🏗️ [DBA Capstone Project – End-to-End Relational Data Platform](https://github.com/CloudDataPalina/dba-capstone-project)
+
+A comprehensive **enterprise-level database administration project** simulating a real-world **e-commerce data platform**.
+- Designed and implemented a production-style **OLTP system (MySQL)** with transactional schema, indexing, and data validation
+- Built a **PostgreSQL Data Warehouse** (fact & dimension tables, analytical queries, materialized views)
+- Developed automated **ETL pipelines using Apache Airflow (DAGs)** for data extraction and loading
+- Implemented **backup & restore automation** with Bash and CRON (disaster recovery scenarios included)
+- Applied **query optimization, execution plan analysis, RBAC access control, and data encryption**
+- Structured into **5 modular components**: OLTP, DWH, ETL, Backup, Security & Performance
+
+This project demonstrates full lifecycle **database design, administration, automation, and optimization** in a hybrid OLTP + Data Warehouse architecture.
+
+**Tools:** `MySQL`, `PostgreSQL`, `Apache Airflow`, `Python`, `Bash`, `Linux`, `pgAdmin`, `phpMyAdmin`, `GitHub Codespaces`
+
 ### 🚦 [Toll Data Pipelines (Airflow & Kafka)](https://github.com/CloudDataPalina/toll-data-pipelines-airflow-kafka)
 
 An end-to-end **batch + streaming data engineering project** for processing traffic toll data using **Apache Airflow** and **Apache Kafka**.
@@ -181,6 +195,9 @@ An in-depth analysis of the fictional company **Technoprom Ltd.** and its 5-year
 ## 🎓 Certificates
 
 ### IBM / Coursera
+- [Relational Database Administration Capstone Project](https://coursera.org/share/9fb16ad83eeba7b47a53b6b7bf3bb510) - 30.01.2026
+- [Relational Database Administration Capstone Project](https://coursera.org/share/9fb16ad83eeba7b47a53b6b7bf3bb510) - 20.01.2026
+- [Data Warehouse Fundamentals](https://coursera.org/share/3f4bb18e08194ee10ac9b20419b883cb) - 13.01.2026
 - [ETL and Data Pipelines with Shell, Airflow and Kafka](https://www.coursera.org/account/accomplishments/certificate/FKATB04P6S30) - 22.12.2025
 - [Relational Database Administration (DBA)](https://coursera.org/share/39f57a0da245b8851dae3e38bf51633a) - 29.11.2025
 - [Hands-on Introduction to Linux Commands and Shell Scripting](https://coursera.org/share/ef2ffe73099bd1eb450b4bfa911b60d3) - 15.11.2025
