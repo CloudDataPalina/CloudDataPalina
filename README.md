@@ -196,6 +196,7 @@ An in-depth analysis of the fictional company **Technoprom Ltd.** and its 5-year
 ## 🎓 Certificates
 
 ### IBM / Coursera
+- [IBM Relational Database Administrator with GenAI - Professional Certificate](https://coursera.org/share/5c1200721baee7158920a452b490fd5b) - 30.01.2026
 - [Relational Database Administration Capstone Project](https://coursera.org/share/9fb16ad83eeba7b47a53b6b7bf3bb510) - 30.01.2026
 - [Relational Database Administration Capstone Project](https://coursera.org/share/9fb16ad83eeba7b47a53b6b7bf3bb510) - 20.01.2026
 - [Data Warehouse Fundamentals](https://coursera.org/share/3f4bb18e08194ee10ac9b20419b883cb) - 13.01.2026
