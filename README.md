@@ -25,7 +25,7 @@ I value **accuracy**, **clarity**, and **structured workflows**, and I genuinely
 ![GitHub Codespaces](https://img.shields.io/badge/GitHub%20Codespaces-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 
 ---
 
