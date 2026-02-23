@@ -76,7 +76,7 @@ Executive **Business Intelligence project** focused on sales performance and pro
 - Integrated customer sentiment segmentation
 - Replicated analytical logic in **IBM Cognos** and **Google Looker Studio**
 
-Demonstrates executive dashboard design, KPI modeling, and cross-platform BI implementation.
+Demonstrates executive dashboard design and cross-platform BI implementation..
 
 **Tools:** `IBM Cognos Analytics`, `Google Looker Studio`, `Data Visualization`, `Business Intelligence`
 
