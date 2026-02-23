@@ -65,6 +65,23 @@ This project demonstrates full lifecycle **database design, administration, auto
 
 ---
 
+### 📊 [Automotive Sales & Service BI Analytics](https://github.com/CloudDataPalina/automotive-sales-bi)
+
+Executive **Business Intelligence project** focused on sales performance and product quality monitoring.
+
+- Built **KPI-driven dashboards** (Total Profit, Units Sold, Dealer Efficiency)
+- Analyzed profit concentration and dealer performance gaps
+- Evaluated model-level sales distribution and seasonality trends
+- Designed recall risk heatmap and defect **clustering analysis**
+- Integrated customer sentiment segmentation
+- Replicated analytical logic in **IBM Cognos** and **Google Looker Studio**
+
+Demonstrates executive dashboard design, KPI modeling, and cross-platform BI implementation.
+
+**Tools:** `IBM Cognos Analytics`, `Google Looker Studio`, `Data Visualization`, `Business Intelligence`
+
+---
+
 ### 🚦 [Toll Data Pipelines (Airflow & Kafka)](https://github.com/CloudDataPalina/toll-data-pipelines-airflow-kafka)
 
 An end-to-end **batch + streaming data engineering project** for processing traffic toll data using **Apache Airflow** and **Apache Kafka**.
