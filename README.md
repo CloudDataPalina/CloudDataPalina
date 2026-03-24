@@ -71,7 +71,7 @@ This project demonstrates full lifecycle **database design, administration, auto
 
 ---
 
-### 🎬 Movies Data Engineering Pipeline (MongoDB → Cassandra)
+### 🎬 [Movies Data Engineering Pipeline (MongoDB → Cassandra)](https://github.com/CloudDataPalina/movies-data-engineering-pipeline)
 
 An end-to-end **NoSQL data pipeline** demonstrating data ingestion, transformation, and cross-system data transfer.
 
