@@ -73,17 +73,15 @@ This project demonstrates full lifecycle **database design, administration, auto
 
 ### 🎬 [Movies Data Engineering Pipeline (MongoDB → Cassandra)](https://github.com/CloudDataPalina/movies-data-engineering-pipeline)
 
-An end-to-end **NoSQL data pipeline** demonstrating data ingestion, transformation, and cross-system data transfer.
+An end-to-end **NoSQL data pipeline** for data ingestion, transformation, and cross-system transfer.
 
-- Imported JSON dataset into **MongoDB** using `mongoimport`  
-- Performed analytical queries using **aggregation pipelines** (grouping, filtering, averages)  
-- Exported processed data to **CSV** using `mongoexport`  
-- Loaded data into **Apache Cassandra** using `COPY`  
-- Created schema, index, and executed analytical queries in **CQL**  
-- Validated results across systems (**MongoDB → Cassandra consistency**)  
-- Includes execution screenshots and structured project documentation  
+- Imported JSON data into **MongoDB**
+- Performed analytical queries using **aggregation pipelines**
+- Exported processed data to **CSV**
+- Loaded data into **Apache Cassandra**
+- Created schema, index, and executed **CQL** queries
 
-This project demonstrates **ETL workflow, data transformation (JSON → CSV), and integration between NoSQL systems**.
+Demonstrates **ETL workflow, JSON → CSV transformation, and NoSQL system integration**.
 
 **Tools:** `MongoDB`, `Mongo Shell`, `mongoimport/mongoexport`, `Apache Cassandra`, `CQL`, `JSON`, `CSV`, `Linux CLI`
 
