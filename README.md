@@ -18,6 +18,12 @@ I value **accuracy**, **clarity**, and **structured workflows**, and I genuinely
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Spark SQL](https://img.shields.io/badge/Spark%20SQL-FF9900?style=for-the-badge)
+![Spark ML](https://img.shields.io/badge/Spark%20ML-FF6F00?style=for-the-badge)
+![Structured Streaming](https://img.shields.io/badge/Structured%20Streaming-00C7B7?style=for-the-badge)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![IBM Db2](https://img.shields.io/badge/IBM%20Db2-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
@@ -40,12 +46,14 @@ I value **accuracy**, **clarity**, and **structured workflows**, and I genuinely
 ## 🧠 Skills
 - **Programming:** Python (Pandas, NumPy), OOP  
 - **Databases:** PostgreSQL, MySQL, Oracle, IBM Db2, MongoDB (NoSQL), Apache Cassandra  
-- **Data Engineering:** ETL pipelines (batch & streaming), Apache Airflow (DAGs), Apache Kafka, data modeling, CSV/COPY exports  
+- **Data Engineering:** ETL pipelines (batch & streaming), Apache Spark (RDD, DataFrames), PySpark, Spark SQL, Apache Airflow (DAGs), Apache Kafka, data modeling, CSV/COPY exports  
+- **Machine Learning:** Spark ML (Regression, Classification, Clustering), feature engineering, model evaluation  
+- **Streaming:** Spark Structured Streaming, real-time data processing, window-based aggregations  
 - **BI & Visualization:** IBM Cognos Analytics, Google Looker Studio, Jupyter, Matplotlib  
 - **Bash & Linux:** Bash scripting, cron automation, CLI tools (curl, grep, awk, cut)  
 - **Cloud & Tooling:** GitHub Codespaces (hands-on)  
 - **Learning:** AWS, GCP  
-- **Foundations:** Data Engineering & Data Science fundamentals  
+- **Foundations:** Data Engineering & Data Science fundamentals   
 
 ---
 
@@ -68,6 +76,23 @@ A comprehensive **enterprise-level database administration project** simulating 
 This project demonstrates full lifecycle **database design, administration, automation, and optimization** in a hybrid OLTP + Data Warehouse architecture.
 
 **Tools:** `MySQL`, `PostgreSQL`, `Apache Airflow`, `Python`, `Bash`, `Linux`, `pgAdmin`, `phpMyAdmin`, `GitHub Codespaces`
+
+---
+
+## 🚀 [Apache Spark Big Data & Machine Learning Portfolio](https://github.com/CloudDataPalina/spark-bigdata-ml-portfolio)
+
+An end-to-end **data engineering and machine learning project** using Apache Spark.
+
+- Processed large-scale data using **Spark (RDD & DataFrames)**  
+- Built **ETL pipelines** for data transformation and cleaning  
+- Performed **data aggregation and analytics using Spark SQL**  
+- Developed ML models: **Regression, Classification, Clustering**  
+- Evaluated models using **standard machine learning metrics**  
+- Implemented **real-time streaming pipeline** (Structured Streaming)  
+
+Demonstrates **ETL workflows, batch + streaming processing, and ML integration** in a scalable Spark environment.
+
+**Tools:** `Apache Spark`, `PySpark`, `Spark SQL`, `Spark ML`, `Structured Streaming`, `Python`  
 
 ---
 
@@ -226,13 +251,16 @@ An in-depth analysis of the fictional company **Technoprom Ltd.** and its 5-year
 [IBM Data Engineer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer) — mastering **Python**, **SQL**, **ETL**, and **cloud platforms** through hands-on, real-world projects.
 
 **🛠 Next Steps**  
-1. Work with **Big Data** using **Apache Spark**  
+1. Complete a **Data Engineering Capstone Project** and prepare for technical interviews  
 2. Gain multi-cloud expertise (**GCP**, **AWS**)  
-3. Complete a **Data Engineering Capstone Project** and prepare for technical interviews  
-
+3. Expand into **AI Engineering (GenAI & ML systems)** and build production-ready solutions
 ---
 
 ## 🎓 Certifications
+
+### ⚡ Apache Spark & Big Data
+- [Introduction to Big Data with Spark and Hadoop](https://coursera.org/share/315e4becd0e12106269e8bde4fef40f0) - 15.04.2026
+- [Machine Learning with Apache Spark](https://coursera.org/share/9e21d300e65c87ae34fd76b2b1a98425) - 27.04.2026
 
 ### 🏆 Professional Certificates
 - [IBM Data Warehouse Engineer - Professional Certificate](https://coursera.org/share/bdfd9f8f2df72ebcbd4cdae08bff30da) - 28.02.2026  
