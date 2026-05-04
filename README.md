@@ -79,7 +79,7 @@ This project demonstrates full lifecycle **database design, administration, auto
 
 ---
 
-## 🚀 [Apache Spark Big Data & Machine Learning Portfolio](https://github.com/CloudDataPalina/spark-bigdata-ml-portfolio)
+### 🚀 [Apache Spark Big Data & Machine Learning Portfolio](https://github.com/CloudDataPalina/spark-bigdata-ml-portfolio)
 
 An end-to-end **data engineering and machine learning project** using Apache Spark.
 
