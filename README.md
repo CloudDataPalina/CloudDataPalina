@@ -63,19 +63,22 @@ I value **accuracy**, **clarity**, and **structured workflows**, and I genuinely
 
 ## 🚀 My Projects
 
-### 🏗️ [DBA Capstone Project – End-to-End Relational Data Platform](https://github.com/CloudDataPalina/dba-capstone-project)
+### 🏗️ [Modern Data Platform – End-to-End Data Engineering Project](https://github.com/CloudDataPalina/dba-capstone-project)
 
-A comprehensive **enterprise-level database administration project** simulating a real-world **e-commerce data platform**.
-- Designed and implemented a production-style **OLTP system (MySQL)** with transactional schema, indexing, and data validation
-- Built a **PostgreSQL Data Warehouse** (fact & dimension tables, analytical queries, materialized views)
-- Developed automated **ETL pipelines using Apache Airflow (DAGs)** for data extraction and loading
-- Implemented **backup & restore automation** with Bash and CRON (disaster recovery scenarios included)
-- Applied **query optimization, execution plan analysis, RBAC access control, and data encryption**
-- Structured into **5 modular components**: OLTP, DWH, ETL, Backup, Security & Performance
+A comprehensive **enterprise-style end-to-end Data Engineering platform** simulating a real-world **e-commerce data ecosystem**.
 
-This project demonstrates full lifecycle **database design, administration, automation, and optimization** in a hybrid OLTP + Data Warehouse architecture.
+- Designed and implemented a production-style **OLTP system (MySQL)** with transactional schema, indexing, and automated data export
+- Built a **PostgreSQL Data Warehouse** using fact & dimension tables, analytical queries, and reporting workflows
+- Developed automated **ETL pipelines with Apache Airflow (DAG orchestration)** for reliable data integration
+- Implemented a **MongoDB NoSQL repository** for semi-structured JSON document processing and aggregation analytics
+- Created **Business Intelligence dashboards** in **IBM Cognos Analytics** and **Google Looker Studio**
+- Integrated **Apache Spark** for distributed data processing and scalable analytics workflows
+- Applied **backup & recovery automation**, query optimization, RBAC access control, encryption, and performance tuning
+- Structured into **8 modular components** covering OLTP, DWH, NoSQL, ETL, Automation, Security, BI Analytics, and Big Data processing
 
-**Tools:** `MySQL`, `PostgreSQL`, `Apache Airflow`, `Python`, `Bash`, `Linux`, `pgAdmin`, `phpMyAdmin`, `GitHub Codespaces`
+This project demonstrates the complete lifecycle of modern **Data Platform Engineering** — including transactional systems, Data Warehousing, NoSQL repositories, ETL orchestration, BI reporting, distributed data processing, automation, and platform optimization.
+
+**Tools:** `MySQL`, `PostgreSQL`, `MongoDB`, `Apache Airflow`, `Apache Spark`, `Python`, `Bash`, `IBM Cognos Analytics`, `Google Looker Studio`, `Linux`, `GitHub Codespaces`
 
 ---
 
@@ -274,6 +277,7 @@ An in-depth analysis of the fictional company **Technoprom Ltd.** and its 5-year
 ---
 
 ### 🧪 Capstone Projects
+- [Data Engineering Capstone Project](https://coursera.org/share/38b472765d3a4439e8e599ef1bbbcacf) - 10.05.2026
 - [Data Warehousing Capstone Project](https://coursera.org/share/288ed179784ec9190e8e5515024d4c03) - 23.02.2026  
 - [Relational Database Administration Capstone Project](https://coursera.org/share/9fb16ad83eeba7b47a53b6b7bf3bb510) - 20.01.2026  
 
