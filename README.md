@@ -71,14 +71,14 @@ A comprehensive **enterprise-style end-to-end Data Engineering platform** simula
 - Built a **PostgreSQL Data Warehouse** using fact & dimension tables, analytical queries, and reporting workflows
 - Developed automated **ETL pipelines with Apache Airflow (DAG orchestration)** for reliable data integration
 - Implemented a **MongoDB NoSQL repository** for semi-structured JSON document processing and aggregation analytics
-- Created **Business Intelligence dashboards** in **IBM Cognos Analytics** and **Google Looker Studio**
-- Integrated **Apache Spark** for distributed data processing and scalable analytics workflows
+- Created executive-level **Business Intelligence dashboards** in **IBM Cognos Analytics** and **Google Looker Studio**
+- Integrated **Apache Spark & SparkML** for distributed data processing, predictive analytics and distributed Machine Learning inference workflows
 - Applied **backup & recovery automation**, query optimization, RBAC access control, encryption, and performance tuning
-- Structured into **8 modular components** covering OLTP, DWH, NoSQL, ETL, Automation, Security, BI Analytics, and Big Data processing
+- Organized into **8 modular components** covering OLTP, DWH, NoSQL, ETL, Automation, Security, BI Analytics, and Big Data processing
 
-This project demonstrates the complete lifecycle of modern **Data Platform Engineering** — including transactional systems, Data Warehousing, NoSQL repositories, ETL orchestration, BI reporting, distributed data processing, automation, and platform optimization.
+This project demonstrates the complete lifecycle of modern **Data Platform Engineering** — including transactional systems, Data Warehousing, NoSQL repositories, ETL orchestration, BI reporting, distributed Big Data processing and SparkML workflows, automation, and platform optimization.
 
-**Tools:** `MySQL`, `PostgreSQL`, `MongoDB`, `Apache Airflow`, `Apache Spark`, `Python`, `Bash`, `IBM Cognos Analytics`, `Google Looker Studio`, `Linux`, `GitHub Codespaces`
+**Tools:** `MySQL`, `PostgreSQL`, `MongoDB`, `Apache Airflow`, `Apache Spark`, `SparkML`, `Python`, `Bash`, `IBM Cognos Analytics`, `Google Looker Studio`, `Linux`, `GitHub Codespaces`
 
 ---
 
