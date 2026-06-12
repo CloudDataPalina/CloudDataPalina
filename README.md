@@ -65,20 +65,23 @@ I value **accuracy**, **clarity**, and **structured workflows**, and I genuinely
 
 ### 🏗️ [Modern Data Platform – End-to-End Data Engineering Project](https://github.com/CloudDataPalina/dba-capstone-project)
 
-A comprehensive **enterprise-style end-to-end Data Engineering platform** simulating a real-world **e-commerce data ecosystem**.
+A comprehensive **enterprise-style end-to-end Data Engineering** and **Enterprise Data Architecture** platform simulating a real-world **e-commerce data ecosystem**.
 
 - Designed and implemented a production-style **OLTP system (MySQL)** with transactional schema, indexing, and automated data export
-- Built a **PostgreSQL Data Warehouse** using fact & dimension tables, analytical queries, and reporting workflows
-- Developed automated **ETL pipelines with Apache Airflow (DAG orchestration)** for reliable data integration
+- Built a **PostgreSQL Data Warehouse** using dimensional modeling, fact & dimension tables, analytical queries, and reporting workflows
+- Developed automated **ETL pipelines with Apache Airflow (DAG orchestration)** for reliable data integration and workflow automation
 - Implemented a **MongoDB NoSQL repository** for semi-structured JSON document processing and aggregation analytics
 - Created executive-level **Business Intelligence dashboards** in **IBM Cognos Analytics** and **Google Looker Studio**
-- Integrated **Apache Spark & SparkML** for distributed data processing, predictive analytics and distributed Machine Learning inference workflows
-- Applied **backup & recovery automation**, query optimization, RBAC access control, encryption, and performance tuning
-- Organized into **8 modular components** covering OLTP, DWH, NoSQL, ETL, Automation, Security, BI Analytics, and Big Data processing
+- Integrated **Apache Spark & SparkML** for distributed data processing, predictive analytics, and machine learning inference workflows
+- Applied **backup & recovery automation**, query optimization, **RBAC** access control, encryption, and performance tuning
+- Performed **Enterprise Data Architecture assessment** of multiple organizations and designed a scalable **target-state architecture** following a business merger scenario
+- Developed **operational and analytical data models**, governance frameworks, compliance controls, and data migration strategies
+- Implemented and validated **bidirectional RDBMS ↔ MongoDB migration workflows**
+- Organized into **9 modular components** covering **OLTP**, **Data Warehousing**, **NoSQL**, **ETL**, **Automation**, **Security**, **BI Analytics**, **Big Data Processing**, and **Enterprise Architecture**
 
-This project demonstrates the complete lifecycle of modern **Data Platform Engineering** — including transactional systems, Data Warehousing, NoSQL repositories, ETL orchestration, BI reporting, distributed Big Data processing and SparkML workflows, automation, and platform optimization.
+This project demonstrates the complete lifecycle of modern **Data Platform Engineering** and **Enterprise Data Architecture** — including transactional systems, Data Warehousing, NoSQL repositories, ETL orchestration, Business Intelligence, distributed Big Data processing, governance, migration strategy, architecture design, automation, security, and platform optimization.
 
-**Tools:** `MySQL`, `PostgreSQL`, `MongoDB`, `Apache Airflow`, `Apache Spark`, `SparkML`, `Python`, `Bash`, `IBM Cognos Analytics`, `Google Looker Studio`, `Linux`, `GitHub Codespaces`
+**Tools:** `MySQL`, `PostgreSQL`, `MongoDB`, `Apache Airflow`, `Apache Spark`, `SparkML`, `Python`, `Bash`, `IBM Cognos Analytics`, `Google Looker Studio`, `Enterprise Data Architecture`, `Data Governance`, `Data Modeling`, `Linux`, `GitHub Codespaces`
 
 ---
 
@@ -254,9 +257,8 @@ An in-depth analysis of the fictional company **Technoprom Ltd.** and its 5-year
 [IBM Data Engineer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer) — mastering **Python**, **SQL**, **ETL**, and **cloud platforms** through hands-on, real-world projects.
 
 **🛠 Next Steps**  
-1. Complete a **Data Engineering Capstone Project** and prepare for technical interviews  
-2. Gain multi-cloud expertise (**GCP**, **AWS**)  
-3. Expand into **AI Engineering (GenAI & ML systems)** and build production-ready solutions
+1. Gain multi-cloud expertise (**GCP**, **AWS**)  
+2. Expand into **AI Engineering (GenAI & ML systems)** and build production-ready solutions
 ---
 
 ## 🎓 Certifications
