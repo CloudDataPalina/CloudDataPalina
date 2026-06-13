@@ -349,6 +349,7 @@ Preparing for **Google Cloud Professional Data Engineer Certification** through 
 ---
 
 ### ⚙️ Tools & Foundations
+- [Data Engineering Career Guide and Interview Preparation](https://coursera.org/share/46e1d4e97723aeb50a6f6c9f62274410) - 19.05.2026
 - [Generative AI: Elevate your Data Engineering Career](https://coursera.org/share/727f3d7d9baeb5883e984426348d6147) - 30.01.2026  
 - [Hands-on Introduction to Linux Commands and Shell Scripting](https://coursera.org/share/ef2ffe73099bd1eb450b4bfa911b60d3) - 15.11.2025  
 - [Introduction to Data Engineering](https://www.coursera.org/account/accomplishments/verify/Q1QM933TRCOI) - 16.05.2025  
