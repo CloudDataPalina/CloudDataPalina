@@ -280,8 +280,8 @@ Preparing for **Google Cloud Professional Data Engineer Certification** through 
 ## 🎓 Certifications
 
 ### 🏆 Professional Certificates
-- [IBM Data Architecture](https://coursera.org/share/465890fc6914ae1fecaac6f568214a4e) - 11.06.2026
-- [IBM Data Engineering](https://coursera.org/share/d4be039747591b4e9229e2b86071d5dd) - 19.05.2026
+- [IBM Data Architecture - Professional Certificate](https://coursera.org/share/465890fc6914ae1fecaac6f568214a4e) - 11.06.2026
+- [IBM Data Engineering - Professional Certificate](https://coursera.org/share/d4be039747591b4e9229e2b86071d5dd) - 19.05.2026
 - [IBM Data Warehouse Engineer - Professional Certificate](https://coursera.org/share/bdfd9f8f2df72ebcbd4cdae08bff30da) - 28.02.2026  
 - [IBM Relational Database Administrator with GenAI - Professional Certificate](https://coursera.org/share/5c1200721baee7158920a452b490fd5b) - 30.01.2026  
 
@@ -301,10 +301,10 @@ Preparing for **Google Cloud Professional Data Engineer Certification** through 
 
 ---
 
- ### 📊 Specializations Certificate
-- [NoSQL, Big Data, and Spark Foundations](https://coursera.org/share/7bf0a6cdab415ef32ea9486eeb437a5f) - 28.05.2026
-- [BI Foundations with SQL, ETL and Data Warehousing (IBM)](https://coursera.org/share/6a1715f9f434b73e72ac5770d33ea38f) - 20.02.2026  
-- [Data Engineering Foundations](https://coursera.org/share/65b22123bb77d2604dc88a7de53015a7) - 19.09.2025
+ ### 📊 Specialization Certificates
+- [NoSQL, Big Data, and Spark Foundations - Specializations Certificate](https://coursera.org/share/7bf0a6cdab415ef32ea9486eeb437a5f) - 28.05.2026
+- [BI Foundations with SQL, ETL and Data Warehousing (IBM) - Specializations Certificate](https://coursera.org/share/6a1715f9f434b73e72ac5770d33ea38f) - 20.02.2026  
+- [Data Engineering Foundations - Specializations Certificate](https://coursera.org/share/65b22123bb77d2604dc88a7de53015a7) - 19.09.2025
 
 ---
 
