@@ -4,7 +4,9 @@
 
 Aspiring **Cloud Data Engineer** with 15+ years of experience as a **Chief Accountant**, now transitioning into data engineering.  
 
-Specializing in **ETL pipelines**, **data analysis**, and **visualization**, I transform raw data into actionable insights. Currently completing the IBM Data Engineer Professional Certificate on Coursera, focusing on modern data engineering tools and practices.
+Specializing in **Data Engineering**, **ETL pipelines**, **Data Warehousing**, **Big Data processing**, and **Enterprise Data Architecture**, I transform raw data into reliable, scalable, and actionable business insights.
+
+Currently holding certifications in **Data Engineering**, **Data Warehousing**, **Relational Database Administration**, **Big Data Processing**, and **Enterprise Data Architecture**, with hands-on experience building end-to-end data platforms, analytical data warehouses, and enterprise architecture solutions.
 
 I value **accuracy**, **clarity**, and **structured workflows**, and I genuinely **love working with data and numbers**. My strong accounting background ensures data integrity, precision, and reliability, while my meticulous approach guarantees high-quality, actionable results.  
 
@@ -40,10 +42,10 @@ I value **accuracy**, **clarity**, and **structured workflows**, and I genuinely
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-
 ---
 
 ## 🧠 Skills
+
 - **Programming:** Python (Pandas, NumPy), OOP  
 - **Databases:** PostgreSQL, MySQL, Oracle, IBM Db2, MongoDB (NoSQL), Apache Cassandra  
 - **Data Engineering:** ETL pipelines (batch & streaming), Apache Spark (RDD, DataFrames), PySpark, Spark SQL, Apache Airflow (DAGs), Apache Kafka, data modeling, CSV/COPY exports  
@@ -52,12 +54,16 @@ I value **accuracy**, **clarity**, and **structured workflows**, and I genuinely
 - **BI & Visualization:** IBM Cognos Analytics, Google Looker Studio, Jupyter, Matplotlib  
 - **Bash & Linux:** Bash scripting, cron automation, CLI tools (curl, grep, awk, cut)  
 - **Cloud & Tooling:** GitHub Codespaces (hands-on)  
-- **Learning:** AWS, GCP  
-- **Foundations:** Data Engineering & Data Science fundamentals   
-
+- **Enterprise Architecture:** Enterprise Data Architecture (EDA), current-state assessment, target-state architecture design, architecture documentation  
+- **Data Governance:** Data stewardship, compliance controls, data quality, metadata management, governance frameworks  
+- **Data Modeling:** Dimensional modeling, star schema design, OLTP & Data Warehouse modeling, ERD development  
+- **Data Migration:** RDBMS ↔ NoSQL migration, schema transformation, migration validation, data integration strategies  
+- **Foundations:** Data Engineering & Data Science fundamentals
+- **Learning:** Google Cloud Platform (GCP), Amazon Web Services (AWS)
+  
 ---
 
-🌍 **Languages**: Russian (native), Polish (B1), English (B1 → actively improving)  
+🌍 **Languages**: Russian (native), Polish (B1), English (B1, actively improving)
 
 ---
 
@@ -129,7 +135,7 @@ Executive **Business Intelligence project** focused on sales performance and pro
 - Integrated customer sentiment segmentation
 - Replicated analytical logic in **IBM Cognos** and **Google Looker Studio**
 
-Demonstrates executive dashboard design and cross-platform BI implementation..
+Demonstrates executive dashboard design and cross-platform BI implementation.
 
 **Tools:** `IBM Cognos Analytics`, `Google Looker Studio`, `Data Visualization`, `Business Intelligence`
 
@@ -173,7 +179,7 @@ A hands-on SQL + Python project analyzing socioeconomic indicators, crime data a
 - Included screenshots of all SQL queries and Db2 objects for reproducibility.  
 - Organized the project into clear folders: `/data`, `/images`, `/screens`, `/notebooks`.  
 
-**Tools:** `Python`, `pandas`, `sqlite3`, `ipython-sql`, `matplotlib`, `seaborn`, `IBM Db2 on Cloud`, `GitHub Codespaces`
+**Tools:** `IBM Db2 on Cloud`, `SQL`, `Python`, `pandas`, `matplotlib`, `sqlite3`, `Jupyter Notebook`
 
 ---
 
@@ -253,32 +259,57 @@ An in-depth analysis of the fictional company **Technoprom Ltd.** and its 5-year
 
 ### 📅 Learning Path
 
-**🎯 Current Focus**  
-[IBM Data Engineer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer) — mastering **Python**, **SQL**, **ETL**, and **cloud platforms** through hands-on, real-world projects.
+**🎯 Current Focus**
 
-**🛠 Next Steps**  
-1. Gain multi-cloud expertise (**GCP**, **AWS**)  
-2. Expand into **AI Engineering (GenAI & ML systems)** and build production-ready solutions
+Building expertise in Cloud Data Engineering, Enterprise Data Architecture, Data Governance, and Big Data Processing through hands-on portfolio projects, architecture design, and cloud-focused learning.
+
+**☁️ Next Certification Goal**
+
+Preparing for **Google Cloud Professional Data Engineer Certification** through the **Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate** program.
+
+**🛠 Next Steps**
+
+1. Develop multi-cloud expertise (**Google Cloud Platform & AWS**)
+2. Build cloud-native data pipelines and data warehouse solutions
+3. Expand knowledge of distributed data processing and real-time analytics
+4. Continue developing Enterprise Data Architecture and Data Governance skills
+5. Explore AI Engineering, MLOps, and production-ready ML systems
+
 ---
 
 ## 🎓 Certifications
 
-### ⚡ Apache Spark & Big Data
-- [Introduction to Big Data with Spark and Hadoop](https://coursera.org/share/315e4becd0e12106269e8bde4fef40f0) - 15.04.2026
-- [Machine Learning with Apache Spark](https://coursera.org/share/9e21d300e65c87ae34fd76b2b1a98425) - 27.04.2026
-
 ### 🏆 Professional Certificates
+- [IBM Data Architecture](https://coursera.org/share/465890fc6914ae1fecaac6f568214a4e) - 11.06.2026
+- [IBM Data Engineering](https://coursera.org/share/d4be039747591b4e9229e2b86071d5dd) - 19.05.2026
 - [IBM Data Warehouse Engineer - Professional Certificate](https://coursera.org/share/bdfd9f8f2df72ebcbd4cdae08bff30da) - 28.02.2026  
 - [IBM Relational Database Administrator with GenAI - Professional Certificate](https://coursera.org/share/5c1200721baee7158920a452b490fd5b) - 30.01.2026  
 
 ---
 
-### 📊 Specializations
+### 🏛️ Enterprise Architecture, Governance & Migration
+
+- [Data Integration, Data Storage, and Data Migration](https://coursera.org/share/aea9238eb3ec50480f4bdf6166f02b65) - 26.05.2026
+- [Data Privacy, Security, Governance, Risk and Compliance](https://coursera.org/share/5a9c3961fcc078c292fd66745370d79c) - 30.05.2026
+- [Enterprise Data Architecture and Operations](https://coursera.org/share/0028edd06e7f94d8566e70d6dfc8cc85) - 06.06.2026
+
+---
+
+### ⚡ Apache Spark & Big Data
+- [Introduction to Big Data with Spark and Hadoop](https://coursera.org/share/315e4becd0e12106269e8bde4fef40f0) - 15.04.2026
+- [Machine Learning with Apache Spark](https://coursera.org/share/9e21d300e65c87ae34fd76b2b1a98425) - 27.04.2026
+
+---
+
+ ### 📊 Specializations Certificate
+- [NoSQL, Big Data, and Spark Foundations](https://coursera.org/share/7bf0a6cdab415ef32ea9486eeb437a5f) - 28.05.2026
 - [BI Foundations with SQL, ETL and Data Warehousing (IBM)](https://coursera.org/share/6a1715f9f434b73e72ac5770d33ea38f) - 20.02.2026  
+- [Data Engineering Foundations](https://coursera.org/share/65b22123bb77d2604dc88a7de53015a7) - 19.09.2025
 
 ---
 
 ### 🧪 Capstone Projects
+- [Data Architect Capstone Project](https://coursera.org/share/49209d7aa035ad87a7d0e216f592c35a) - 11.06.2026
 - [Data Engineering Capstone Project](https://coursera.org/share/38b472765d3a4439e8e599ef1bbbcacf) - 10.05.2026
 - [Data Warehousing Capstone Project](https://coursera.org/share/288ed179784ec9190e8e5515024d4c03) - 23.02.2026  
 - [Relational Database Administration Capstone Project](https://coursera.org/share/9fb16ad83eeba7b47a53b6b7bf3bb510) - 20.01.2026  
