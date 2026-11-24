@@ -16,7 +16,9 @@ I value **accuracy**, **clarity**, and **structured workflows**, and I genuinely
 ---
 
 ## 🛠 Tech Stack  
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 
@@ -26,53 +28,46 @@ I value **accuracy**, **clarity**, and **structured workflows**, and I genuinely
 ![Spark ML](https://img.shields.io/badge/Spark%20ML-FF6F00?style=for-the-badge)
 ![Structured Streaming](https://img.shields.io/badge/Structured%20Streaming-00C7B7?style=for-the-badge)
 
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-4285F4?style=for-the-badge)
+![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge)
+![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-4285F4?style=for-the-badge)
+![Cloud Composer](https://img.shields.io/badge/Cloud%20Composer-4285F4?style=for-the-badge)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![IBM Db2](https://img.shields.io/badge/IBM%20Db2-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ![IBM Cognos](https://img.shields.io/badge/IBM%20Cognos-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Google%20Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Dataflow](https://img.shields.io/badge/Google%20Dataflow-4285F4?style=for-the-badge)
-![Pub/Sub](https://img.shields.io/badge/Google%20Pub%2FSub-4285F4?style=for-the-badge)
-![Cloud Composer](https://img.shields.io/badge/Cloud%20Composer-4285F4?style=for-the-badge)
-![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-4285F4?style=for-the-badge)
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge)
-![Dataproc](https://img.shields.io/badge/Dataproc-4285F4?style=for-the-badge)
-![Bigtable](https://img.shields.io/badge/Bigtable-4285F4?style=for-the-badge)
-![Cloud Data Fusion](https://img.shields.io/badge/Cloud%20Data%20Fusion-4285F4?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 🧠 Skills
 
-- **Programming:** Python (Pandas, NumPy), SQL, OOP  
-- **Databases:** PostgreSQL, MySQL, Oracle, IBM Db2, MongoDB (NoSQL), Apache Cassandra  
-- **Data Engineering:** ETL pipelines (batch & streaming), Apache Spark (RDD, DataFrames), PySpark, Spark SQL, Apache Airflow (DAGs), Apache Kafka, data modeling, CSV/COPY exports  
-- **Machine Learning:** Spark ML (Regression, Classification, Clustering), feature engineering, model evaluation  
-- **Streaming:** Spark Structured Streaming, real-time data processing, window-based aggregations  
-- **BI & Visualization:** IBM Cognos Analytics, Google Looker Studio, Jupyter, Matplotlib  
-- **Bash & Linux:** Bash scripting, cron automation, CLI tools (curl, grep, awk, cut)
-- **Cloud Data Engineering (GCP):** BigQuery, Cloud Storage, Dataflow, Pub/Sub, Cloud Composer, Dataproc, Cloud Data Fusion, Bigtable, batch and streaming data pipelines
-- **Cloud Machine Learning:** BigQuery ML, Vertex AI, ML pipelines, model evaluation and prediction
-- **Development & Tooling:** Git, GitHub, GitHub Codespaces, Google Cloud Shell
-- **Learning:** Amazon Web Services (AWS)
-- **Enterprise Architecture:** Enterprise Data Architecture (EDA), current-state assessment, target-state architecture design, architecture documentation  
-- **Data Governance:** Data stewardship, compliance controls, data quality, metadata management, governance frameworks  
-- **Data Modeling:** Dimensional modeling, star schema design, OLTP & Data Warehouse modeling, ERD development  
-- **Data Migration:** RDBMS ↔ NoSQL migration, schema transformation, migration validation, data integration strategies  
-- **Foundations:** Data Engineering & Data Science fundamentals
+- **Programming:** Python (Pandas, NumPy), SQL, OOP
+- **Data Engineering:** ETL/ELT pipelines, batch and streaming processing, Apache Airflow (DAGs), Apache Kafka, workflow orchestration, data integration
+- **Cloud Data Engineering (GCP):** BigQuery, Cloud Storage, Dataflow, Pub/Sub, Cloud Composer, Dataproc, Cloud Data Fusion, Bigtable (hands-on labs)
+- **Big Data & Distributed Processing:** Apache Spark (RDD, DataFrames), PySpark, Spark SQL, Structured Streaming, window-based aggregations
+- **Databases:** PostgreSQL, MySQL, Oracle, IBM Db2, MongoDB, Apache Cassandra
+- **Data Warehousing & Modeling:** Dimensional modeling, star schema, fact and dimension tables, OLTP/OLAP, ERD development
+- **Machine Learning & AI:** Spark ML, BigQuery ML, Vertex AI, regression, classification, clustering, feature engineering, model evaluation
+- **BI & Data Analytics:** IBM Cognos Analytics, Google Looker Studio, Jupyter Notebook, Matplotlib, KPI reporting
+- **Enterprise Data Architecture:** Current-state assessment, target-state architecture design, architecture documentation, data migration
+- **Data Governance & Security:** Data quality, metadata management, data stewardship, compliance controls, RBAC
+- **Development & Automation:** Linux, Bash scripting, cron, Git, GitHub, GitHub Codespaces, Google Cloud Shell
+- **Currently Learning:** Amazon Web Services (AWS)
   
 ---
 
