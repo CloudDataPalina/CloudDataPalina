@@ -281,7 +281,7 @@ An in-depth analysis of the fictional company **Technoprom Ltd.** and its 5-year
 ## 🎓 Certifications
 
 ### 🏆 Professional Certificates
-- [Preparing for Google Cloud Certification: Cloud Data Engineer - Professional Certificate]https://www.coursera.org/account/accomplishments/specialization/8GDXYCB3V7T3) - 24.11.2026
+- [Preparing for Google Cloud Certification: Cloud Data Engineer - Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/8GDXYCB3V7T3) - 24.11.2026
 - [IBM Data Architecture - Professional Certificate](https://coursera.org/share/465890fc6914ae1fecaac6f568214a4e) - 11.06.2026
 - [IBM Data Engineering - Professional Certificate](https://coursera.org/share/d4be039747591b4e9229e2b86071d5dd) - 19.05.2026
 - [IBM Data Warehouse Engineer - Professional Certificate](https://coursera.org/share/bdfd9f8f2df72ebcbd4cdae08bff30da) - 28.02.2026  
