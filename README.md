@@ -6,7 +6,7 @@ Aspiring **Cloud Data Engineer** with 15+ years of experience as a **Chief Accou
 
 Specializing in **Data Engineering**, **ETL pipelines**, **Data Warehousing**, **Big Data processing**, and **Enterprise Data Architecture**, I transform raw data into reliable, scalable, and actionable business insights.
 
-CuCurrently holding professional certificates from **Google Cloud** and **IBM** in **Cloud Data Engineering**, **Data Engineering**, **Data Warehousing**, **Relational Database Administration**, and **Enterprise Data Architecture**, with hands-on experience building end-to-end data platforms, analytical data warehouses, batch and streaming data pipelines, and cloud-based data solutions.
+Currently holding professional certificates from **Google Cloud** and **IBM** in **Cloud Data Engineering**, **Data Engineering**, **Data Warehousing**, **Relational Database Administration**, and **Enterprise Data Architecture**, with hands-on experience through portfolio projects and cloud-based labs in building end-to-end data platforms, analytical data warehouses, and batch and streaming data pipelines.
 
 I value **accuracy**, **clarity**, and **structured workflows**, and I genuinely **love working with data and numbers**. My strong accounting background ensures data integrity, precision, and reliability, while my meticulous approach guarantees high-quality, actionable results.  
 
@@ -49,18 +49,21 @@ I value **accuracy**, **clarity**, and **structured workflows**, and I genuinely
 ![Cloud Composer](https://img.shields.io/badge/Cloud%20Composer-4285F4?style=for-the-badge)
 ![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-4285F4?style=for-the-badge)
 ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge)
+![Dataproc](https://img.shields.io/badge/Dataproc-4285F4?style=for-the-badge)
+![Bigtable](https://img.shields.io/badge/Bigtable-4285F4?style=for-the-badge)
+![Cloud Data Fusion](https://img.shields.io/badge/Cloud%20Data%20Fusion-4285F4?style=for-the-badge)
 
 ---
 
 ## 🧠 Skills
 
-- **Programming:** Python (Pandas, NumPy), OOP  
+- **Programming:** Python (Pandas, NumPy), SQL, OOP  
 - **Databases:** PostgreSQL, MySQL, Oracle, IBM Db2, MongoDB (NoSQL), Apache Cassandra  
 - **Data Engineering:** ETL pipelines (batch & streaming), Apache Spark (RDD, DataFrames), PySpark, Spark SQL, Apache Airflow (DAGs), Apache Kafka, data modeling, CSV/COPY exports  
 - **Machine Learning:** Spark ML (Regression, Classification, Clustering), feature engineering, model evaluation  
 - **Streaming:** Spark Structured Streaming, real-time data processing, window-based aggregations  
 - **BI & Visualization:** IBM Cognos Analytics, Google Looker Studio, Jupyter, Matplotlib  
-- **Bash & Linux:** Bash scripting, cron automation, CLI tools (curl, grep, awk, cut)  
+- **Bash & Linux:** Bash scripting, cron automation, CLI tools (curl, grep, awk, cut)
 - **Cloud Data Engineering (GCP):** BigQuery, Cloud Storage, Dataflow, Pub/Sub, Cloud Composer, Dataproc, Cloud Data Fusion, Bigtable, batch and streaming data pipelines
 - **Cloud Machine Learning:** BigQuery ML, Vertex AI, ML pipelines, model evaluation and prediction
 - **Development & Tooling:** Git, GitHub, GitHub Codespaces, Google Cloud Shell
@@ -70,7 +73,6 @@ I value **accuracy**, **clarity**, and **structured workflows**, and I genuinely
 - **Data Modeling:** Dimensional modeling, star schema design, OLTP & Data Warehouse modeling, ERD development  
 - **Data Migration:** RDBMS ↔ NoSQL migration, schema transformation, migration validation, data integration strategies  
 - **Foundations:** Data Engineering & Data Science fundamentals
-- **Learning:** Google Cloud Platform (GCP), Amazon Web Services (AWS)
   
 ---
 
@@ -268,10 +270,10 @@ An in-depth analysis of the fictional company **Technoprom Ltd.** and its 5-year
 
 ---
 
-**🛠 Next Steps**
+## 🎯 Next Steps
 
-1. Develop multi-cloud expertise (**AWS**)
-2. Build cloud-native data pipelines and data warehouse solutions
+1. Build cloud-native data pipelines and data warehouse solutions on Google Cloud
+2. Develop multi-cloud expertise (AWS)
 3. Expand knowledge of distributed data processing and real-time analytics
 4. Continue developing Enterprise Data Architecture and Data Governance skills
 5. Explore AI Engineering, MLOps, and production-ready ML systems
@@ -280,8 +282,8 @@ An in-depth analysis of the fictional company **Technoprom Ltd.** and its 5-year
 
 ## 🎓 Certifications
 
-### 🏆 Professional Certificates
-- [Preparing for Google Cloud Certification: Cloud Data Engineer - Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/8GDXYCB3V7T3) - 24.11.2026
+### 🏆 Professional Certificates & Cloud Specializations
+- [Preparing for Google Cloud Certification: Cloud Data Engineer](https://www.coursera.org/account/accomplishments/specialization/8GDXYCB3V7T3) - 24.11.2026
 - [IBM Data Architecture - Professional Certificate](https://coursera.org/share/465890fc6914ae1fecaac6f568214a4e) - 11.06.2026
 - [IBM Data Engineering - Professional Certificate](https://coursera.org/share/d4be039747591b4e9229e2b86071d5dd) - 19.05.2026
 - [IBM Data Warehouse Engineer - Professional Certificate](https://coursera.org/share/bdfd9f8f2df72ebcbd4cdae08bff30da) - 28.02.2026  
